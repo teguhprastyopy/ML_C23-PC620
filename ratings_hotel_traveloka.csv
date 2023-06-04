@@ -1,0 +1,905 @@
+city,id,name,displayName,region,starRating,userRating,numReviews,userRatingInfo
+Jakarta,62303,The Sultan Hotel & Residence Jakarta,The Sultan Hotel Jakarta,"Senayan, Jakarta",5.0,8.6,7247.0,Mengesankan
+Jakarta,2000000141144,Aryaduta Suite Semanggi,Aryaduta Suite Semanggi,"Karet Semanggi, Jakarta",4.0,8.5,4882.0,Mengesankan
+Jakarta,9000000952972,Aloft South Jakarta,Aloft South Jakarta,"Cilandak Timur, Jakarta",4.0,8.9,467.0,Mengesankan
+Jakarta,9000000971405,"The Langham, Jakarta","The Langham, Jakarta","Senayan, Jakarta",5.0,8.8,340.0,Mengesankan
+Jakarta,4755,"Hotel Mulia Senayan, Jakarta","Hotel Mulia Senayan, Jakarta","Senayan, Jakarta",5.0,8.7,1540.0,Mengesankan
+Jakarta,3000010007126,ASTON Priority Simatupang & Conference Center,ASTON Priority Simatupang & Conference Center,"Kebagusan, Jakarta",4.0,8.6,7246.0,Mengesankan
+Jakarta,182137,Merlynn Park Hotel,Merlynn Park Hotel,"Petojo Utara, Jakarta",5.0,8.6,19249.0,Mengesankan
+Jakarta,3000020014445,Ascott Sudirman Jakarta,Ascott Sudirman Jakarta,"Karet Semanggi, Jakarta",5.0,8.6,2200.0,Mengesankan
+Jakarta,1000000449987,"The Hermitage, a Tribute Portfolio Hotel, Jakarta","The Hermitage, a Tribute Portfolio Hotel, Jakarta","Menteng, Jakarta",5.0,8.9,369.0,Mengesankan
+Jakarta,49739,Mercure Convention Center Ancol,Mercure Convention Center Ancol - CHSE Certified,"Ancol, Jakarta",4.0,8.4,7570.0,Mengesankan
+Jakarta,7584,Hotel Borobudur Jakarta,Hotel Borobudur Jakarta,"Pasar Baru, Jakarta",5.0,8.6,7103.0,Mengesankan
+Jakarta,3000010000077,Discovery Ancol,Discovery Ancol,"Ancol, Jakarta",4.0,8.2,5754.0,Nyaman
+Jakarta,3000020007376,Yuan Garden Pasar Baru,Yuan Garden Pasar Baru,"Pasar Baru, Jakarta",4.0,8.5,3213.0,Mengesankan
+Jakarta,71864,Hotel Menara Peninsula,Menara Peninsula Hotel Jakarta,"Slipi, Jakarta",4.0,8.4,9253.0,Mengesankan
+Jakarta,3000010023329,"The Ritz-Carlton Jakarta, Pacific Place Hotel","The Ritz-Carlton Jakarta, Pacific Place Hotel","Senayan, Jakarta",5.0,9.0,483.0,Mengesankan
+Jakarta,3000020014186,Grand Hyatt Jakarta,Grand Hyatt Jakarta,"Thamrin, Jakarta",5.0,8.7,2059.0,Mengesankan
+Jakarta,9076,Century Park Hotel,Century Park Hotel,"Senayan, Jakarta",4.0,8.6,6830.0,Mengesankan
+Jakarta,1000000476765,Best Western Premier The Hive,Best Western Premier The Hive,"Cawang, Jakarta",5.0,8.4,11091.0,Mengesankan
+Jakarta,8126,Hotel Ciputra Jakarta managed by Swiss-Belhotel International,Hotel Ciputra Jakarta managed by Swiss-Belhotel International,"Tanjung Duren, Jakarta",4.0,8.5,9261.0,Mengesankan
+Jakarta,546236,DoubleTree by Hilton Jakarta - Diponegoro,DoubleTree by Hilton Jakarta - Diponegoro,"Cikini, Jakarta",5.0,8.8,3244.0,Mengesankan
+Jakarta,1000000545168,Sheraton Grand Jakarta Gandaria City Hotel,Sheraton Grand Jakarta Gandaria City Hotel,"Kebayoran Lama Utara, Jakarta",5.0,8.9,1579.0,Mengesankan
+Jakarta,48666,Millennium Hotel Sirih Jakarta,Millennium Hotel Sirih Jakarta,"Tanah Abang, Jakarta",4.0,8.6,4969.0,Mengesankan
+Jakarta,3000010007726,Teraskita Hotel Jakarta managed by Dafam,Teraskita Hotel Jakarta managed by Dafam,"Cawang, Jakarta",4.0,8.6,9335.0,Mengesankan
+Jakarta,2000000098393,Lumire Hotel & Convention Center,Lumire Hotel & Convention Center,"Senen, Jakarta",4.0,8.5,8924.0,Mengesankan
+Jakarta,3000010007129,Royal Kuningan Hotel,Royal Kuningan Hotel,"Rasuna Said, Jakarta",4.0,8.5,6678.0,Mengesankan
+Jakarta,286716,Pullman Jakarta Central Park,Pullman Jakarta Central Park,"Tanjung Duren, Jakarta",5.0,8.5,2590.0,Mengesankan
+Jakarta,72900,Manhattan Hotel Jakarta,Manhattan Hotel Jakarta,"Rasuna Said, Jakarta",5.0,8.3,8621.0,Mengesankan
+Jakarta,3000010005467,Swiss-Belinn Simatupang Jakarta,Swiss-Belinn Simatupang Jakarta,"Lebak Bulus, Jakarta",3.0,8.5,7329.0,Mengesankan
+Jakarta,4000000956122,InterContinental Hotels JAKARTA PONDOK INDAH,InterContinental Hotels JAKARTA PONDOK INDAH,"Pondok Indah, Jakarta",5.0,8.9,1455.0,Mengesankan
+Jakarta,111546,Grand Tropic Suites Hotel,Grand Tropic Suites Hotel,"Tanjung Duren, Jakarta",4.0,8.0,5554.0,Nyaman
+Jakarta,950,Le Meridien Jakarta,Le Meridien Jakarta,"Sudirman, Jakarta",5.0,8.7,377.0,Mengesankan
+Jakarta,813,Gran Melia Jakarta,Gran Melia Jakarta,"Kuningan, Jakarta",5.0,8.8,1759.0,Mengesankan
+Jakarta,3000010010313,Swiss-Belhotel Pondok Indah,Swiss-Belhotel Pondok Indah,"Pondok Indah, Jakarta",4.0,8.5,4538.0,Mengesankan
+Jakarta,46085900000,Holiday Inn Express JAKARTA PLUIT CITYGATE,Holiday Inn Express JAKARTA PLUIT CITYGATE,"Pluit, Jakarta",3.0,8.4,5158.0,Mengesankan
+Jakarta,148771,Hotel Santika Premiere Slipi Jakarta,Hotel Santika Premiere Slipi Jakarta,"Slipi, Jakarta",4.0,8.6,6308.0,Mengesankan
+Jakarta,1000000486214,Fairmont Jakarta,Fairmont Jakarta,"Senayan, Jakarta",5.0,8.9,1045.0,Mengesankan
+Jakarta,71938,Redtop Hotel & Convention Center,Redtop Hotel & Convention Center,"Pecenongan, Jakarta",4.0,8.5,4209.0,Mengesankan
+Jakarta,3000010015150,Grand Whiz Poins Simatupang Jakarta,Grand Whiz Poins Simatupang Jakarta,"Lebak Bulus, Jakarta",4.0,8.6,9148.0,Mengesankan
+Jakarta,74874,Ambhara Hotel,Ambhara Hotel,"Melawai, Jakarta",4.0,8.3,4857.0,Mengesankan
+Jakarta,3000010007198,ASTON Pluit Hotel & Residence,ASTON Pluit Hotel & Residence,"Pluit, Jakarta",4.0,8.3,5915.0,Mengesankan
+Jakarta,3000010007125,Hotel Gren Alia Jakarta,Hotel Gren Alia Jakarta,"Senen, Jakarta",3.0,8.7,2906.0,Mengesankan
+Jakarta,3000010013403,Holiday Inn Express JAKARTA WAHID HASYIM,Holiday Inn Express JAKARTA WAHID HASYIM,"Kebon Kacang, Jakarta",3.0,8.6,3537.0,Mengesankan
+Jakarta,45322500000,ibis Styles Jakarta Airport,ibis Styles Jakarta Airport,"Benda, Jakarta",3.0,8.3,4157.0,Mengesankan
+Jakarta,9000000874119,Sentral Cawang Hotel,Sentral Cawang Hotel,"Cawang, Jakarta",3.0,8.4,7369.0,Mengesankan
+Jakarta,3000010031823,Harris Vertu Hotel Harmoni,Harris Vertu Hotel Harmoni,"Harmoni, Jakarta",5.0,8.6,3749.0,Mengesankan
+Jakarta,9000000928498,Grand Dafam Ancol Jakarta,Grand Dafam Ancol Jakarta,"Ancol, Jakarta",4.0,8.4,434.0,Mengesankan
+Jakarta,74877,Harris Tebet Jakarta,Harris Tebet Jakarta,"Manggarai Selatan, Jakarta",4.0,8.5,5101.0,Mengesankan
+Jakarta,1000000545168,Sheraton Grand Jakarta Gandaria City Hotel,Sheraton Grand Jakarta Gandaria City Hotel,"Kebayoran Lama Utara, Jakarta",5.0,8.9,1579.0,Mengesankan
+Jakarta,1000000533946,Swiss-Belresidences Kalibata,Swiss-Belresidences Kalibata,"Kalibata, Jakarta",4.0,8.6,8523.0,Mengesankan
+Jakarta,1000000552735,Grand Mercure Jakarta Kemayoran,Grand Mercure Jakarta Kemayoran,"Gunung Sahari, Jakarta",5.0,8.7,3438.0,Mengesankan
+Jakarta,65540,"The Ritz-Carlton Jakarta, Mega Kuningan","The Ritz-Carlton Jakarta, Mega Kuningan","Kuningan, Jakarta",5.0,8.8,2884.0,Mengesankan
+Jakarta,9000000133906,ASTON Kartika Grogol Hotel & Conference Center,ASTON Kartika Grogol Hotel & Conference Center,"Grogol, Jakarta",4.0,8.6,3896.0,Mengesankan
+Jakarta,3000010005459,Swiss-Belhotel Airport Jakarta,Swiss-Belhotel Airport Jakarta,"Benda, Jakarta",4.0,8.5,2222.0,Mengesankan
+Jakarta,3000020009097,Hotel Dharmein,Hotel Dharmein,"Melawai, Jakarta",3.0,8.5,3116.0,Mengesankan
+Jakarta,9000000883365,Swiss-Belinn Wahid Hasyim,Swiss-Belinn Wahid Hasyim,"Kebon Kacang, Jakarta",3.0,8.4,895.0,Mengesankan
+Jakarta,9000001043096,Ra Suites Simatupang,Ra Suites Simatupang,"Cilandak Barat, Jakarta",5.0,8.6,68.0,Mengesankan
+Jakarta,7347,Shangri-La Jakarta,Shangri-La Jakarta,"Karet Tengsin, Jakarta",5.0,8.9,2262.0,Mengesankan
+Jakarta,399926,Grand Mercure Jakarta Harmoni,Grand Mercure Jakarta Harmoni,"Harmoni, Jakarta",5.0,8.6,1627.0,Mengesankan
+Bandung,2000000081029,eL Hotel Royale Bandung,eL Hotel Royale Bandung,"Merdeka, Bandung",4.0,8.7,16317.0,Mengesankan
+Bandung,3000010008390,Grand Tjokro Premiere Bandung,Grand Tjokro Premiere Bandung,"Cihampelas, Bandung",4.0,8.5,15901.0,Mengesankan
+Bandung,1000000570828,Four Points by Sheraton Bandung,Four Points by Sheraton Bandung,"Dago, Bandung",4.0,8.8,2190.0,Mengesankan
+Bandung,3000010009554,Aryaduta Bandung,Aryaduta Bandung,"Merdeka, Bandung",4.0,8.7,8395.0,Mengesankan
+Bandung,194479,Hilton Bandung,Hilton Bandung,"Pasirkaliki, Bandung",5.0,8.8,3130.0,Mengesankan
+Bandung,1000000511080,InterContinental Hotels BANDUNG DAGO PAKAR,InterContinental Hotels BANDUNG DAGO PAKAR,"Mekarsaluyu, Bandung",5.0,8.8,4140.0,Mengesankan
+Bandung,3000010007325,Clove Garden Hotel & Residence,Clove Garden Hotel & Residence,"Dago, Bandung",4.0,8.2,14893.0,Nyaman
+Bandung,3000010043683,Moxy Bandung,Moxy Bandung,"Dago, Bandung",3.0,8.7,1939.0,Mengesankan
+Bandung,295675,ibis Bandung Trans Studio,ibis Bandung Trans Studio,"Buahbatu, Bandung",3.0,8.4,17868.0,Mengesankan
+Bandung,9000000092703,Apartment Gateway Cicadas by GPro,Apartment Gateway Cicadas by GPro,"Cibeunying, Bandung",0.0,6.9,163.0,Baik
+Bandung,3000010032948,Holiday Inn BANDUNG PASTEUR,Holiday Inn BANDUNG PASTEUR,"Pasteur, Bandung",4.0,8.6,5223.0,Mengesankan
+Bandung,3000010029354,Kytos Hotel,Kytos Hotel,"Setiabudi, Bandung",3.0,8.4,6245.0,Mengesankan
+Bandung,1000000508325,Crowne Plaza BANDUNG,Crowne Plaza BANDUNG,"Sumurbandung, Bandung",5.0,8.7,3856.0,Mengesankan
+Bandung,3000020004232,Apartmen The Suite Metro By Faris Bunbun,Apartmen The Suite Metro By Faris Bunbun,"Batununggal, Bandung",0.0,7.7,430.0,Nyaman
+Bandung,280342,The Papandayan Hotel,The Papandayan,"Lengkong, Bandung",5.0,8.8,5038.0,Mengesankan
+Bandung,3000010001305,THE 1O1 Bandung Dago,THE 1O1 Bandung Dago,"Dago, Bandung",4.0,8.6,12553.0,Mengesankan
+Bandung,186703,GH Universal Hotel,GH Universal Hotel,"Setiabudi, Bandung",5.0,8.5,6137.0,Mengesankan
+Bandung,1000000570828,Four Points by Sheraton Bandung,Four Points by Sheraton Bandung,"Dago, Bandung",4.0,8.8,2190.0,Mengesankan
+Bandung,9000000966541,The Suites Metro by Desta Faris,The Suites Metro by Desta Faris,"Batununggal, Bandung",0.0,7.5,63.0,Nyaman
+Bandung,62293,Sheraton Bandung Hotel & Towers,Sheraton Bandung Hotel & Towers,"Dago Atas, Bandung",5.0,8.7,2213.0,Mengesankan
+Bandung,3000020009318,Janévalla Bandung,Janévalla Bandung,"Merdeka, Bandung",4.0,8.8,9593.0,Mengesankan
+Bandung,49722,Grand Hotel Preanger,Grand Hotel Preanger,"Braga, Bandung",5.0,8.6,3800.0,Mengesankan
+Bandung,3000010000305,Shakti Hotel Bandung,Shakti Hotel Bandung,"Gedebage, Bandung",4.0,8.5,9209.0,Mengesankan
+Bandung,238032,The Luxton Bandung,The Luxton Bandung,"Dago, Bandung",4.0,8.5,5129.0,Mengesankan
+Bandung,9000000929110,Maison Teraskita Bandung,Maison Teraskita Bandung,"Asia Afrika, Bandung",4.0,8.7,788.0,Mengesankan
+Bandung,108951,Serela Riau by KAGUM Hotels,Serela Riau by KAGUM Hotels,"Jalan Riau, Bandung",3.0,8.0,5598.0,Nyaman
+Bandung,271478,Harris Hotel & Conventions Festival Citilink Bandung,Harris Hotel & Conventions Festival Citilink Bandung,"Pasir Koja, Bandung",4.0,8.4,4955.0,Mengesankan
+Bandung,2000000081026,Horison Ultima Bandung,Horison Ultima Bandung,"Lengkong, Bandung",4.0,8.0,17509.0,Nyaman
+Bandung,3000010008595,Atlantic City Hotel,Atlantic City,"Pasirkaliki, Bandung",3.0,8.5,9630.0,Mengesankan
+Bandung,9000000971417,Nine Inn by Edotel Dbest,Nine Inn by Edotel Dbest,"Batununggal, Bandung",2.0,7.6,35.0,Nyaman
+Bandung,161695,Grand Serela Setiabudhi by KAGUM Hotels,Grand Serela Setiabudhi by KAGUM Hotels,"Setiabudi, Bandung",4.0,8.0,6164.0,Nyaman
+Bandung,3000020003597,"Courtyard by Marriott Bandung Dago, CHSE Certified","Courtyard by Marriott Bandung Dago, CHSE Certified","Dago, Bandung",4.0,8.6,2179.0,Mengesankan
+Bandung,478355,Serela Merdeka by KAGUM Hotels,Serela Merdeka by KAGUM Hotels,"Dago, Bandung",3.0,8.3,6149.0,Mengesankan
+Bandung,216177,Amaroossa Bandung,Amaroossa Bandung,"Jalan Riau, Bandung",4.0,8.2,5511.0,Nyaman
+Bandung,149184,Banana Inn by KAGUM Hotels,Banana Inn by KAGUM Hotels,"Setiabudi, Bandung",4.0,8.4,6267.0,Mengesankan
+Bandung,291995,POP! Hotel Festival Citylink - Bandung,POP! Hotel Festival Citylink - Bandung,"Pasir Koja, Bandung",2.0,8.2,9679.0,Nyaman
+Bandung,2000000141122,Sensa Hotel Bandung,Sensa Hotel Bandung,"Cihampelas, Bandung",4.0,8.6,3133.0,Mengesankan
+Bandung,3000010034206,ibis Bandung Pasteur,ibis Bandung Pasteur,"Pasteur, Bandung",3.0,8.5,5186.0,Mengesankan
+Bandung,1000000739415,Mercure Bandung City Centre,Mercure Bandung City Centre,"Asia Afrika, Bandung",4.0,8.5,2600.0,Mengesankan
+Bandung,3000020019917,Grand Sunshine Resort and Convention,Grand Sunshine Resort and Convention,"Pamekaran, Bandung",4.0,8.7,1131.0,Mengesankan
+Bandung,3000010000136,Serela Waringin by KAGUM Hotels,Serela Waringin by KAGUM Hotels,"Pasirkaliki, Bandung",3.0,8.0,7622.0,Nyaman
+Bandung,65535,"Sukajadi Hotel, Convention and Gallery","Sukajadi Hotel, Convention and Gallery","Sukajadi, Bandung",3.0,8.1,4836.0,Nyaman
+Bandung,3000010029331,De Paviljoen Bandung,De Paviljoen Bandung,"Jalan Riau, Bandung",4.0,8.8,4384.0,Mengesankan
+Bandung,3000010023425,Cinnamon Hotel Boutique Syariah,Cinnamon Hotel Boutique Syariah,"Setiabudi, Bandung",4.0,9.0,1616.0,Mengesankan
+Bandung,3000010007682,Zest Hotel Sukajadi Bandung,Zest Hotel Sukajadi Bandung,"Sukajadi, Bandung",3.0,8.7,7151.0,Mengesankan
+Bandung,3000010009980,Hotel 88 Bandung Kopo,Hotel 88 Bandung Kopo,"Cibaduyut, Bandung",2.0,8.5,5123.0,Mengesankan
+Bandung,3000010038988,Sari Ater Kamboti Hotel Bandung,Sari Ater Kamboti Hotel Bandung,"Pasteur, Bandung",4.0,8.3,5865.0,Mengesankan
+Bandung,3000010000835,Kedaton Hotel,Kedaton Hotel,"Sumurbandung, Bandung",3.0,8.4,5277.0,Mengesankan
+Bandung,3000010004492,Hemangini Hotel Bandung,Hemangini Hotel Bandung,"Setiabudi, Bandung",4.0,8.5,5488.0,Mengesankan
+Medan,129579,Cambridge Hotel Medan,Cambridge Hotel Medan,"Pusat Kota Medan, Medan",5.0,8.5,6263.0,Mengesankan
+Medan,3000010022750,JW Marriott Hotel Medan,JW Marriott Hotel Medan,"Pusat Kota Medan, Medan",5.0,8.7,7460.0,Mengesankan
+Medan,3000020014393,Horison Sky Kualanamu,Horison Sky Kualanamu,"Beringin, Medan",3.0,8.5,2704.0,Mengesankan
+Medan,9000000947465,Hotel Anaya,Hotel Anaya,"Medan Baru, Medan",0.0,6.9,19.0,Baik
+Medan,3000020003466,Prime Plaza Hotel Kualanamu,Prime Plaza Hotel Kualanamu,"Batang Kuis, Medan",4.0,8.6,1397.0,Mengesankan
+Medan,9000001006352,Cordex Hotel Medan,Cordex Hotel Medan,"Pusat Kota Medan, Medan",0.0,8.6,61.0,Mengesankan
+Medan,3000010020069,Miyanna Hotel,Miyanna Hotel,"Percut Sei Tuan, Medan",3.0,7.9,975.0,Nyaman
+Medan,9000001042218,SELECTA HOTEL,SELECTA HOTEL,"Pusat Kota Medan, Medan",4.0,8.2,70.0,Nyaman
+Medan,9000000502450,OYO 2361 Hotel Winston,OYO 2361 Hotel Winston,"Tanjung Morawa, Medan",2.0,7.2,79.0,Nyaman
+Medan,344407,Grand Kanaya Hotel,Grand Kanaya Hotel,"Medan Petisah, Medan",3.0,8.1,2701.0,Nyaman
+Medan,3000010028282,CREW EXPRESS Hotel,CREW EXPRESS Hotel,"Tanjung Morawa, Medan",3.0,8.3,2165.0,Mengesankan
+Medan,3000010009181,Hotel Antares,Hotel Antares,"Pusat Kota Medan, Medan",3.0,7.9,808.0,Nyaman
+Medan,9000000975057,Swasana Hotel Medan,Swasana Hotel Medan,"Medan Petisah, Medan",3.0,8.4,127.0,Mengesankan
+Medan,9000000824274,Cordela Inn Millenium Medan,Cordela Inn Millenium Medan,"Medan Helvetia, Medan",2.0,8.4,483.0,Mengesankan
+Medan,186870,Alpha Inn Medan,Alpha Inn Medan,"Medan Petisah, Medan",3.0,7.7,3815.0,Nyaman
+Medan,3000010000786,Cordela Hotel Medan,Cordela Hotel Medan,"Pusat Kota Medan, Medan",2.0,8.4,3519.0,Mengesankan
+Medan,2000000226541,Pardede International Hotel Medan,Pardede International Hotel Medan,"Medan Polonia, Medan",3.0,7.7,1076.0,Nyaman
+Medan,3000010002773,Wisma Sederhana Budget Hotel,Wisma Sederhana Budget Hotel,"Pusat Kota Medan, Medan",0.0,8.3,1700.0,Mengesankan
+Medan,4000000454962,Hotel Menara Lexus,Hotel Menara Lexus,"Medan Maimun, Medan",0.0,7.7,274.0,Nyaman
+Medan,9000001047413,NIVIA HOTEL,NIVIA HOTEL,"Medan Tembung, Medan",3.0,8.8,12.0,Mengesankan
+Medan,3000020003196,Lively Hotel Kualanamu Airport Medan,Lively Hotel Kualanamu Airport Medan,"Batang Kuis, Medan",2.0,8.0,793.0,Nyaman
+Medan,9000000630296,OYO 2345 Homestay Jaya,OYO 2345 Homestay Jaya,"Pusat Kota Medan, Medan",1.0,7.0,63.0,Baik
+Medan,3000020000121,Hotel Aero,Hotel Aero,"Tanjung Morawa, Medan",2.0,7.9,263.0,Nyaman
+Medan,3000010003076,OYO 90565 Wesly House,OYO 90565 Wesly House,"Medan Petisah, Medan",1.0,8.0,552.0,Nyaman
+Medan,3000010006697,Amaliun Hotel,Amaliun Hotel,"Pusat Kota Medan, Medan",2.0,8.1,705.0,Nyaman
+Medan,9000001099742,Odua Golden Mansyur Medan,Odua Golden Mansyur Medan,"Medan Baru, Medan",0.0,,2.0,
+Medan,9000000967170,OYO 90457 Anara Residence & Guest House,OYO 90457 Anara Residence & Guest House,"Medan Helvetia, Medan",2.0,8.4,77.0,Mengesankan
+Medan,9000000370090,OYO 1457 Tmj Guest House,OYO 1457 Tmj Guest House,"Pusat Kota Medan, Medan",1.5,7.9,213.0,Nyaman
+Medan,3000010000566,Putra Mulia Hotel,Putra Mulia Hotel,"Medan Petisah, Medan",3.0,7.8,719.0,Nyaman
+Medan,9000000174438,Alam Hotel by Cordela,Alam Hotel by Cordela,"Medan Area, Medan",3.0,8.4,172.0,Mengesankan
+Medan,1000000474312,OYO 2574 Z Suites Hotel,OYO 2574 Z Suites Hotel,"Medan Sunggal, Medan",2.0,7.3,417.0,Nyaman
+Medan,9000000947465,Hotel Anaya,Hotel Anaya,"Medan Baru, Medan",0.0,6.9,19.0,Baik
+Medan,9000000122548,OYO 456 Aljadid Guest House Syariah,OYO 456 Aljadid Guest House Syariah,"Pusat Kota Medan, Medan",2.0,8.4,156.0,Mengesankan
+Medan,3000010019269,Kanasha Hotel,Kanasha Hotel,"Pusat Kota Medan, Medan",1.0,8.8,1036.0,Mengesankan
+Medan,9000000368102,OYO 1400 Barat Residence Syariah,OYO 1400 Barat Residence Syariah,"Medan Selayang, Medan",1.5,7.6,99.0,Nyaman
+Medan,9000000966681,OYO 90447 Kardopa Hotel Megapark,OYO 90447 Kardopa Hotel Megapark,"Medan Petisah, Medan",1.0,8.1,33.0,Nyaman
+Medan,9000001043577,Huber Apartment,Huber Apartment,"Medan Selayang, Medan",2.0,7.8,320.0,Nyaman
+Medan,3000020003206,My Studio Hotel Kualanamu Airport Medan,My Studio Hotel Kualanamu Airport Medan,"Batang Kuis, Medan",1.0,8.3,805.0,Mengesankan
+Medan,9000000369531,OYO 1183 Papakoel,OYO 1183 Papakoel,"Medan Baru, Medan",1.0,8.1,147.0,Nyaman
+Medan,3000010016528,Vivo Stay,Vivo Stay,"Pusat Kota Medan, Medan",2.0,7.6,348.0,Nyaman
+Medan,3000020021462,OYO 359 Executive Inn,OYO 359 Executive Inn,"Medan Tembung, Medan",1.0,8.1,143.0,Nyaman
+Denpasar,9000000414227,Adi Pelita Sari,Adi Pelita Sari,"Denpasar Barat, Denpasar",0.0,8.6,6.0,Mengesankan
+Banda Aceh,3000010003879,Hermes Palace by BENCOOLEN,Hermes Palace by BENCOOLEN,"Ulee Kareng, Banda Aceh",5.0,8.4,2544.0,Mengesankan
+Banda Aceh,3000010006969,Hip Hope Hotel,Hip Hope Hotel,"Baiturrahman, Banda Aceh",2.0,8.7,994.0,Mengesankan
+Banda Aceh,3000020003208,Kyriad Hotel Muraya Aceh,Kyriad Hotel Muraya Aceh,"Kuta Alam, Banda Aceh",4.0,8.6,1875.0,Mengesankan
+Banda Aceh,109027,The Pade Hotel,The Pade Hotel,"Banda Raya, Banda Aceh",3.0,8.5,1283.0,Mengesankan
+Banda Aceh,2000000488116,Hotel Medan Banda Aceh,Hotel Medan Banda Aceh,"Kuta Alam, Banda Aceh",0.0,8.4,179.0,Mengesankan
+Banda Aceh,3000010003870,Grand Arabia Hotel,Grand Arabia Hotel,"Meuraksa, Banda Aceh",3.0,8.5,542.0,Mengesankan
+Banda Aceh,9000000972937,Plum Hotel Lading Banda Aceh,Plum Hotel Lading Banda Aceh,"Baiturrahman, Banda Aceh",3.0,8.1,50.0,Nyaman
+Banda Aceh,9000000475431,SPOT ON 2134 Seunia Hotel,SPOT ON 2134 Seunia Hotel,"Syiah Kuala, Banda Aceh",1.0,8.0,166.0,Nyaman
+Banda Aceh,3000010015804,Hotel Rasamala,Hotel Rasamala,"Banda Raya, Banda Aceh",3.0,8.3,277.0,Mengesankan
+Banda Aceh,9000000971091,Hotel Amel & Convention Hall,Hotel Amel & Convention Hall,"Meuraksa, Banda Aceh",3.0,8.2,29.0,Nyaman
+Banda Aceh,3000020016227,OYO 854 Ub Caisar Hotel,OYO 854 Ub Caisar Hotel,"Syiah Kuala, Banda Aceh",2.0,7.0,507.0,Baik
+Banda Aceh,3000010001183,Hotel Mekkah,Hotel Mekkah,"Kuta Alam, Banda Aceh",3.0,7.6,826.0,Nyaman
+Banda Aceh,3000010001554,Kumala Hotel Banda Aceh,Kumala Hotel Banda Aceh,"Ulee Kareng, Banda Aceh",2.0,8.5,490.0,Mengesankan
+Banda Aceh,3000010003896,Grand Nanggroe Hotel,Grand Nanggroe Hotel,"Lueng Bata, Banda Aceh",3.0,7.5,291.0,Nyaman
+Banda Aceh,3000010041579,Seventeen Hotel,Seventeen Hotel,"Baiturrahman, Banda Aceh",3.0,8.5,390.0,Mengesankan
+Banda Aceh,3000010003881,Hotel 61 Banda Aceh,Hotel 61 Banda Aceh,"Kuta Alam, Banda Aceh",2.0,7.7,511.0,Nyaman
+Banda Aceh,9000000690749,Mita Mulia Hotel,Mita Mulia Hotel,"Syiah Kuala, Banda Aceh",0.0,8.4,68.0,Mengesankan
+Banda Aceh,3000010001555,Oasis Atjeh Hotel,Oasis Atjeh Hotel,"Lueng Bata, Banda Aceh",3.0,8.2,435.0,Nyaman
+Banda Aceh,3000020006150,Al-Hanifi Hotel,Al-Hanifi Hotel,"Kuta Alam, Banda Aceh",0.0,8.4,234.0,Mengesankan
+Banda Aceh,9000000457742,Capital O 2018 Ring Road Guest House Syariah,Capital O 2018 Ring Road Guest House Syariah,"Lueng Bata, Banda Aceh",2.0,8.0,140.0,Nyaman
+Banda Aceh,9000000475431,SPOT ON 2134 Seunia Hotel,SPOT ON 2134 Seunia Hotel,"Syiah Kuala, Banda Aceh",1.0,8.0,166.0,Nyaman
+Banda Aceh,3000020016394,My Home Aceh,My Home Aceh,"Kuta Alam, Banda Aceh",0.0,8.4,188.0,Mengesankan
+Banda Aceh,3000020018796,Capital O 1630 Hotel Syariah Ring Road,Capital O 1630 Hotel Syariah Ring Road,"Lueng Bata, Banda Aceh",1.5,7.8,324.0,Nyaman
+Banda Aceh,3000010003869,Hotel Madinah,Hotel Madinah,"Kuta Alam, Banda Aceh",2.0,6.9,194.0,Baik
+Banda Aceh,9000001043455,Hozby Family Suites,Hozby Family Suites,"Banda Raya, Banda Aceh",0.0,,,
+Padang,411648,The ZHM Premiere (d/h Grand Zuri) Padang,The ZHM Premiere (d/h Grand Zuri) Padang,"Padang Selatan, Padang",4.0,8.6,8050.0,Mengesankan
+Padang,344282,Truntum Padang Hotel,Truntum Padang Hotel,"Padang Barat, Padang",4.0,8.6,5134.0,Mengesankan
+Padang,44371400000,ibis Padang,ibis Padang Hotel,"Padang Utara, Padang",3.0,8.2,5555.0,Nyaman
+Padang,3000010000635,Rocky Plaza Hotel Padang,Rocky Plaza Hotel Padang,"Padang Barat, Padang",4.0,8.3,8221.0,Mengesankan
+Padang,1000000464585,Pangeran Beach Hotel,Pangeran Beach Hotel,"Padang Utara, Padang",4.0,8.3,4637.0,Mengesankan
+Padang,399934,Mercure Padang,Mercure Padang,"Padang Barat, Padang",4.0,8.4,1921.0,Mengesankan
+Padang,9000000973808,Ocean Beach Hotel,Ocean Beach Hotel,"Padang Barat, Padang",3.5,8.4,322.0,Mengesankan
+Padang,3000010000635,Rocky Plaza Hotel Padang,Rocky Plaza Hotel Padang,"Padang Barat, Padang",4.0,8.3,8221.0,Mengesankan
+Padang,3000010000525,Kyriad Bumiminang Hotel Padang,Kyriad Bumiminang Hotel Padang,"Padang Barat, Padang",4.0,8.0,4361.0,Nyaman
+Padang,3000010001335,The Axana Hotel,The Axana Hotel,"Padang Barat, Padang",4.0,8.0,5440.0,Nyaman
+Padang,3000010000525,Kyriad Bumiminang Hotel Padang,Kyriad Bumiminang Hotel Padang,"Padang Barat, Padang",4.0,8.0,4361.0,Nyaman
+Padang,3000010018845,favehotel Olo Padang,favehotel Olo Padang,"Padang Barat, Padang",3.0,8.1,6737.0,Nyaman
+Padang,3000010011530,Deivan Hotel,Deivan Hotel,"Padang Barat, Padang",2.0,8.3,1624.0,Mengesankan
+Padang,3000010013076,Imelda Hotel - Water Park - Convention,Imelda Hotel - Water Park - Convention,"Pauh, Padang",4.0,8.0,766.0,Nyaman
+Padang,3000020007021,Nagari Koto Gadang,Nagari Koto Gadang,"Padang Barat, Padang",0.0,8.9,183.0,Mengesankan
+Padang,3000010014031,New d'Dhave Hotel,New d'Dhave Hotel,"Nanggalo, Padang",2.5,8.1,1084.0,Nyaman
+Padang,9000000806746,OYO 3305 Bumi Siliwangi Residence,OYO 3305 Bumi Siliwangi Residence,"Padang Utara, Padang",1.0,7.7,74.0,Nyaman
+Padang,9000000659662,Fazarel Residence Syariah,Fazarel Residence Syariah,"Padang Barat, Padang",2.0,8.3,118.0,Mengesankan
+Padang,9000001071452,d'Dhave hotel,d'Dhave hotel,"Padang Barat, Padang",0.0,7.7,433.0,Nyaman
+Padang,9000000972703,TANAHOTEL PADANG,TANAHOTEL PADANG,"Padang Utara, Padang",2.0,8.4,42.0,Mengesankan
+Padang,3000020012867,Kinol Homestay,Kinol Homestay,"Padang Selatan, Padang",1.0,7.6,149.0,Nyaman
+Padang,9000000370230,OYO 1673 M Authentic Kost Man,OYO 1673 M Authentic Kost Man,"Padang Barat, Padang",2.0,7.4,109.0,Nyaman
+Padang,9000001099627,OYO 91675 Utama Residence,OYO 91675 Utama Residence,"Padang Utara, Padang",0.0,,1.0,
+Padang,9000000873739,Kelapa Gading Guesthouse II,Kelapa Gading Guesthouse II,"Padang Utara, Padang",0.0,7.9,39.0,Nyaman
+Padang,3000010010541,Jesnic Hotel,Jesnic Hotel,"Padang Selatan, Padang",1.0,7.8,169.0,Nyaman
+Padang,9000000986701,TEE HOTEL,TEE HOTEL,"Nanggalo, Padang",0.0,8.3,10.0,Mengesankan
+Padang,3000020017379,Wisma Ayank,Wisma Ayank,"Lubuk Begalung, Padang",1.0,8.6,153.0,Mengesankan
+Padang,3000010035912,Wisma Tatar Pasundan,Wisma Tatar Pasundan,"Padang Utara, Padang",0.0,8.1,108.0,Nyaman
+Padang,9000000986676,HOTEL RUMAH RB,HOTEL RUMAH RB,"Padang Timur, Padang",0.0,6.6,7.0,Baik
+Padang,3000010010584,Hotel Bintang Padang,Hotel Bintang Padang,"Padang Barat, Padang",1.0,7.7,61.0,Nyaman
+Padang,3000010039867,Lestari Guesthouse,Lestari Guesthouse,"Padang Barat, Padang",0.0,8.4,196.0,Mengesankan
+Padang,3000020013744,Wisma Rumah KIta,Wisma Rumah KIta,"Padang Barat, Padang",1.5,8.4,121.0,Mengesankan
+Padang,3000010043188,Rumah Tamu Agung,Rumah Tamu Agung,"Padang Timur, Padang",0.0,8.4,45.0,Mengesankan
+Palembang,3000020008697,Wyndham Opi Hotel Palembang,Wyndham Opi Hotel Palembang,"Plaju, Palembang",5.0,8.5,5976.0,Mengesankan
+Palembang,3000010002189,Beston Hotel Palembang (FKA Horison Ultima Palembang),Beston Hotel Palembang (FKA Horison Ultima Palembang),"Ilir Timur I, Palembang",4.0,8.5,10058.0,Mengesankan
+Palembang,230345,The Alts Hotel,The Alts Hotel,"Ilir Timur II, Palembang",4.0,8.6,7144.0,Mengesankan
+Palembang,3000010007189,ASTON Palembang Hotel & Conference Center,ASTON Palembang Hotel & Conference Center,"Ilir Timur II, Palembang",4.0,8.5,6467.0,Mengesankan
+Palembang,3000010040222,All Nite & Day Palembang - Veteran,All Nite & Day Palembang - Veteran,"Ilir Timur I, Palembang",3.0,8.6,7479.0,Mengesankan
+Palembang,335926,MaxOneHotels.com @ Vivo Palembang,MaxOneHotels.com @ Vivo Palembang,"Ilir Timur II, Palembang",3.0,8.2,12846.0,Nyaman
+Palembang,3000020009998,The Zuri Palembang,The Zuri Palembang,"Bukit Kecil, Palembang",4.0,8.6,7298.0,Mengesankan
+Palembang,2000000212517,Rio City Hotel,Rio City Hotel,"Ilir Timur II, Palembang",3.0,7.9,3204.0,Nyaman
+Palembang,3000010007593,BATIQA Hotel Palembang,BATIQA Hotel Palembang,"Ilir Barat I, Palembang",3.5,8.5,7602.0,Mengesankan
+Palembang,3000010007230,favehotel Palembang,favehotel Palembang,"Ilir Timur II, Palembang",3.0,8.4,8960.0,Mengesankan
+Palembang,3000020018623,Harper Palembang by ASTON,Harper Palembang by ASTON,"Ilir Timur II, Palembang",4.0,8.4,4254.0,Mengesankan
+Palembang,3000010019656,Hotel Santika Radial Palembang,Hotel Santika Radial Palembang,"Bukit Kecil, Palembang",3.0,8.5,6886.0,Mengesankan
+Palembang,3000010034754,The Excelton Hotel,The Excelton Hotel,"Ilir Barat I, Palembang",5.0,8.5,4890.0,Mengesankan
+Palembang,3000010002919,Algoritma Hotel Palembang,Algoritma Hotel Palembang,"Ilir Timur II, Palembang",3.0,8.4,8010.0,Mengesankan
+Palembang,3000010028750,The 1O1 Palembang Rajawali,The 1O1 Palembang Rajawali,"Ilir Timur II, Palembang",4.0,8.6,5593.0,Mengesankan
+Palembang,3000010026278,Ayola Sentosa Palembang,Ayola Sentosa Palembang,"Ilir Timur I, Palembang",3.0,8.5,3541.0,Mengesankan
+Palembang,1000000509594,Emilia Hotel By Amazing - Palembang,Emilia Hotel By Amazing - Palembang,"Bukit Kecil, Palembang",3.0,8.6,4120.0,Mengesankan
+Palembang,9000000952536,Luminor Hotel Palembang,Luminor Hotel Palembang,"Ilir Timur I, Palembang",3.0,8.2,108.0,Nyaman
+Palembang,9000000575016,Opa Hotel Palembang,Opa Hotel Palembang,"Ilir Timur II, Palembang",4.0,8.3,796.0,Mengesankan
+Palembang,9000000966994,Rid's Hotel Palembang,Rid's Hotel Palembang,"Alang-Alang Lebar, Palembang",3.0,8.8,187.0,Mengesankan
+Palembang,3000020013607,Cordela Inn R. Sukamto Palembang,Cordela Inn R. Sukamto Palembang,"Ilir Timur II, Palembang",2.0,8.5,1392.0,Mengesankan
+Palembang,2000000217848,Sintesa Peninsula Hotel Palembang,Sintesa Peninsula Hotel Palembang,"Ilir Timur II, Palembang",4.0,8.2,2376.0,Nyaman
+Palembang,2000000212517,Rio City Hotel,Rio City Hotel,"Ilir Timur II, Palembang",3.0,7.9,3204.0,Nyaman
+Palembang,3000020013141,Hotel Harvani,Hotel Harvani,"Ilir Timur II, Palembang",2.0,8.1,1673.0,Nyaman
+Palembang,3000010011776,Barong Hotel,Barong Hotel,"Ilir Barat I, Palembang",1.0,8.1,4878.0,Nyaman
+Palembang,3000020016188,OYO 142 Hotel Al Furqon Syariah,OYO 142 Hotel Al Furqon Syariah,"Ilir Timur II, Palembang",2.0,8.4,420.0,Mengesankan
+Palembang,3000020020936,The Emerald Inn,The Emerald Inn,"Ilir Barat I, Palembang",1.5,8.3,207.0,Mengesankan
+Palembang,3000010031475,Denata B&B,Denata B&B,"Ilir Timur I, Palembang",2.0,8.5,899.0,Mengesankan
+Palembang,3000020014797,Cemerlang Inn,Cemerlang Inn,"Ilir Timur I, Palembang",0.0,8.0,1340.0,Nyaman
+Palembang,3000020017880,Alpha Family Kostel,Alpha Family Kostel,"Ilir Timur II, Palembang",2.0,8.2,195.0,Nyaman
+Palembang,3000020009000,Homestay 82 Syariah Palembang,Homestay 82 Syariah Palembang,"Ilir Timur II, Palembang",2.0,8.4,205.0,Mengesankan
+Palembang,9000000368886,U_xpress Hotel,U_xpress Hotel,"Ilir Timur I, Palembang",0.0,8.3,72.0,Mengesankan
+Palembang,3000010011593,Hotel Alam Sutra,Hotel Alam Sutra,"Sukarame, Palembang",2.0,8.2,346.0,Nyaman
+Palembang,9000000806641,OYO 3431 Alpha Hotel Syariah,OYO 3431 Alpha Hotel Syariah,"Sukarame, Palembang",1.0,8.2,59.0,Nyaman
+Palembang,9000000958303,Circle One,Circle One,"Ilir Timur I, Palembang",0.0,8.4,53.0,Mengesankan
+Palembang,9000001071221,Desilva Bandara,Desilva Bandara,"Sukarame, Palembang",2.0,8.3,6.0,Mengesankan
+Palembang,9000000369854,OYO 1389 Hotel Carissima,OYO 1389 Hotel Carissima,"Ilir Timur I, Palembang",1.0,7.6,61.0,Nyaman
+Palembang,9000000947765,OYO 90226 Penginapan Sederhana Syariah,OYO 90226 Penginapan Sederhana Syariah,"Ilir Timur II, Palembang",1.0,8.5,53.0,Mengesankan
+Palembang,9000001072131,roriz house palembang,roriz house palembang,"Sukarame, Palembang",0.0,,3.0,
+Palembang,9000000883084,Wisma Cendana Syariah,Wisma Cendana Syariah,"Ilir Timur II, Palembang",0.0,8.7,76.0,Mengesankan
+Palembang,9000000966659,Collection O 90428 Remington Hotel,Collection O 90428 Remington Hotel,"Ilir Timur II, Palembang",0.0,8.5,34.0,Mengesankan
+Palembang,3000010033280,D'Paragon Dwikora,D'Paragon Dwikora,"Ilir Barat I, Palembang",0.0,7.8,449.0,Nyaman
+Palembang,9000000414128,OYO 1868 Penginapan Sekip,OYO 1868 Penginapan Sekip,"Ilir Timur II, Palembang",0.0,7.8,32.0,Nyaman
+Palembang,9000000501818,OYO 2177 Trikora Indah Residence Palembang,OYO 2177 Trikora Indah Residence Palembang,"Ilir Barat I, Palembang",1.0,7.3,96.0,Nyaman
+Palembang,9000001072910,OYO 91680 Hotel Mentari,OYO 91680 Hotel Mentari,"Sukarame, Palembang",0.0,,1.0,
+Palembang,3000020018246,Hotel Grand Putri Sriwijaya Syariah,Hotel Grand Putri Sriwijaya Syariah,"Plaju, Palembang",0.0,8.4,83.0,Mengesankan
+Palembang,3000010033253,D'Paragon Trikora,D'Paragon Trikora,"Ilir Barat I, Palembang",0.0,8.0,620.0,Nyaman
+Palembang,9000000966626,OYO 90412 My Kost,OYO 90412 My Kost,"Ilir Timur I, Palembang",0.0,7.1,34.0,Nyaman
+Palembang,9000001043657,Green Guesthouse,Green Guesthouse,"Sukarame, Palembang",0.0,8.5,11.0,Mengesankan
+Palembang,3000010035381,OYO 91160 Wisma Srijaya Syariah,OYO 91160 Wisma Srijaya Syariah,"Ilir Barat I, Palembang",1.5,7.6,137.0,Nyaman
+Palembang,9000001099707,OYO 91805 Hotel Wisma Bari,OYO 91805 Hotel Wisma Bari,"Ilir Timur I, Palembang",0.0,,3.0,
+Bogor,2000000188453,Lorin Sentul Hotel,Lorin Sentul Hotel,"Sentul, Bogor",4.0,7.9,9907.0,Nyaman
+Bogor,3000010012316,ASTON Sentul Lake Resort & Conference Center,ASTON Sentul Lake Resort & Conference Center,"Sentul, Bogor",4.0,8.5,4138.0,Mengesankan
+Bogor,3000010001702,Grand Savero Hotel Bogor,Grand Savero Hotel Bogor,"Padjajaran, Bogor",4.0,8.5,6859.0,Mengesankan
+Bogor,3000020021201,Horison Ultima Bhuvana Ciawi,Horison Ultima Bhuvana Ciawi,"Ciawi, Bogor",4.0,8.5,1192.0,Mengesankan
+Bogor,1000000568953,ibis Styles Bogor Raya,ibis Styles Bogor Raya,"Bogor Raya, Bogor",4.0,8.8,6948.0,Mengesankan
+Bogor,49743,Novotel Bogor Golf Resort & Convention Center,Novotel Bogor Golf Resort & Convention Center,"Bogor Raya, Bogor",5.0,8.4,3630.0,Mengesankan
+Bogor,1000000475287,R Hotel Rancamaya,R Hotel Rancamaya,"Bogor Selatan, Bogor",4.0,8.8,5631.0,Mengesankan
+Bogor,3000010001004,Padjadjaran Suites Resort & Convention Hotel,Padjadjaran Suites Resort & Convention Hotel,"Bogor Nirwana Residence, Bogor",4.0,8.2,4307.0,Nyaman
+Bogor,9000000690775,Savero Style Bogor,Savero Style Bogor,"Padjajaran, Bogor",2.0,8.5,3899.0,Mengesankan
+Bogor,3000010001004,Padjadjaran Suites Resort & Convention Hotel,Padjadjaran Suites Resort & Convention Hotel,"Bogor Nirwana Residence, Bogor",4.0,8.2,4307.0,Nyaman
+Bogor,3000010000998,Arch Hotel Bogor,Arch Hotel Bogor,"Padjajaran, Bogor",3.5,8.3,6116.0,Mengesankan
+Bogor,3000010016717,Green Forest Bogor,Green Forest Bogor,"Bogor Selatan, Bogor",4.0,7.9,1634.0,Nyaman
+Bogor,3000010001332,Padjadjaran Hotel,Padjadjaran Hotel,"Padjajaran, Bogor",4.0,8.2,5438.0,Nyaman
+Bogor,3000010004583,The Sahira Hotel ( Syariah Hotel ),The Sahira Hotel ( Syariah Hotel ),"Tanah Sareal, Bogor",4.0,8.7,2959.0,Mengesankan
+Bogor,3000010023383,Citrus-house,Citrus-house,"Bogor Timur, Bogor",1.0,8.7,3476.0,Mengesankan
+Bogor,3000010033116,Onih Hotel,Onih Hotel,"Juanda, Bogor",3.0,8.6,1574.0,Mengesankan
+Bogor,3000010043657,New Green Sentul Resort & Hotel,New Green Sentul Resort & Hotel,"Sentul, Bogor",1.0,8.0,1098.0,Nyaman
+Bogor,3000010007512,Sahira Butik Hotel (Syariah Hotel),Sahira Butik Hotel Paledang,"Juanda, Bogor",3.0,8.6,1818.0,Mengesankan
+Bogor,3000010001548,Rizen Padjadjaran Hotel,Rizen Padjadjaran Hotel,"Pakuan, Bogor",3.0,8.2,756.0,Nyaman
+Bogor,3000020002127,The Village Resort Bogor By Waringin Hospitality,The Village Resort Bogor By Waringin Hospitality,"Caringin, Bogor",2.0,7.7,182.0,Nyaman
+Bogor,9000000134739,Pelindo Residence (Syariah),Pelindo Residence (Syariah),"Ciawi, Bogor",3.0,8.6,548.0,Mengesankan
+Bogor,9000000972243,Light Box,Light Box,"Padjajaran, Bogor",2.0,8.2,207.0,Nyaman
+Bogor,3000020008052,Sahira Butik Pakuan (Syariah Hotel),Sahira Butik Pakuan (Syariah Hotel),"Pakuan, Bogor",3.0,8.7,1029.0,Mengesankan
+Bogor,9000001039929,Sienna Residence,Sienna Residence,"Ciomas, Bogor",0.0,8.8,49.0,Mengesankan
+Bogor,9000000961973,Residence Tanjung Pakuan,Residence Tanjung Pakuan,"Bogor Tengah, Bogor",0.0,7.1,145.0,Nyaman
+Semarang,3000020011083,Po Hotel (FKA Crowne Plaza Semarang),Po Hotel (FKA Crowne Plaza Semarang),"Semarang Tengah, Semarang",5.0,8.4,2265.0,Mengesankan
+Semarang,108994,Gumaya Tower Hotel Semarang,Gumaya Tower Hotel Semarang,"Semarang Tengah, Semarang",5.0,8.8,4521.0,Mengesankan
+Semarang,3000010000522,Amanda Hills Bandungan,Amanda Hills Bandungan,"Bandungan, Semarang",3.0,8.1,3052.0,Nyaman
+Semarang,62307,Hotel Ciputra Semarang managed by Swiss-Belhotel International,Hotel Ciputra Semarang managed by Swiss-Belhotel International,"Semarang Tengah, Semarang",5.0,8.6,7507.0,Mengesankan
+Semarang,290326,Whiz Hotel Pemuda Semarang,Whiz Hotel Pemuda Semarang,"Semarang Tengah, Semarang",2.0,8.3,16763.0,Mengesankan
+Semarang,2000000147040,Grand Candi Hotel Semarang,Grand Candi Hotel Semarang,"Candisari, Semarang",5.0,8.3,3942.0,Mengesankan
+Semarang,3000020000086,HA-KA Simpang Lima Hotel Semarang,HA-KA Simpang Lima Hotel Semarang,"Semarang Tengah, Semarang",3.0,8.4,5238.0,Mengesankan
+Semarang,1000000572139,Horison Kota Lama Semarang,Horison Kota Lama Semarang,"Semarang Timur, Semarang",3.0,8.2,4984.0,Nyaman
+Semarang,9000000889400,Golden City Hotel and Convention Center,Golden City Hotel and Convention Center,"Kota Lama, Semarang",4.0,8.5,708.0,Mengesankan
+Semarang,9000000889400,Golden City Hotel and Convention Center,Golden City Hotel and Convention Center,"Kota Lama, Semarang",4.0,8.5,708.0,Mengesankan
+Semarang,3000010000522,Amanda Hills Bandungan,Amanda Hills Bandungan,"Bandungan, Semarang",3.0,8.1,3052.0,Nyaman
+Semarang,3000020013298,The Azana Hotel Airport Semarang,The Azana Hotel Airport Semarang,"Semarang Barat, Semarang",4.0,8.4,1094.0,Mengesankan
+Semarang,3000020017992,Citrip Hotel Simpang Lima (FKA CityOne),Citrip Hotel Simpang Lima (FKA CityOne),"Semarang Tengah, Semarang",2.0,8.2,1593.0,Nyaman
+Semarang,3000010000144,Hotel Citradream Semarang,Hotel Citradream Semarang,"Semarang Tengah, Semarang",2.0,8.4,7607.0,Mengesankan
+Semarang,3000010001538,Candiview Hotel Semarang,Candiview Hotel Semarang,"Gajahmungkur, Semarang",2.0,8.3,4643.0,Mengesankan
+Semarang,295610,Hotel Dalu Semarang,Hotel Dalu Semarang,"Pedurungan, Semarang",2.0,8.3,1743.0,Mengesankan
+Semarang,3000010000698,Hotel Grasia,Hotel Grasia,"Gajahmungkur, Semarang",3.0,8.1,3020.0,Nyaman
+Semarang,3000010007018,Hotel Pantes Candi Simpang Lima,Hotel Pantes Candi Simpang Lima,"Candisari, Semarang",1.0,8.1,1490.0,Nyaman
+Semarang,3000010001931,Plaza Hotel Semarang,Plaza Hotel Semarang,"Banyumanik, Semarang",3.0,8.1,2157.0,Nyaman
+Yogyakarta,3000010039024,INNSIDE by Melia Yogyakarta,INNSIDE by Melia Yogyakarta,"Depok, Yogyakarta",4.0,8.6,4719.0,Mengesankan
+Yogyakarta,168,Melia Purosani Yogyakarta,Melia Purosani Yogyakarta,"Jalan Malioboro, Yogyakarta",5.0,8.7,3505.0,Mengesankan
+Yogyakarta,1000000509788,The Alana Hotel & Conference Center Malioboro Yogyakarta by ASTON,The Alana Hotel & Conference Center Malioboro Yogyakarta by ASTON,"Mantrijeron, Yogyakarta",4.0,8.8,6562.0,Mengesankan
+Yogyakarta,3000010007104,The Alana Yogyakarta Hotel & Convention Center,The Alana Yogyakarta Hotel & Convention Center,"Ngaglik, Yogyakarta",4.0,8.8,6564.0,Mengesankan
+Yogyakarta,3000020003297,Yogyakarta Marriott Hotel,Yogyakarta Marriott Hotel,"Depok, Yogyakarta",5.0,9.0,3200.0,Mengesankan
+Yogyakarta,100215,Hyatt Regency Yogyakarta,Hyatt Regency Yogyakarta,"Ngaglik, Yogyakarta",5.0,8.9,3711.0,Mengesankan
+Yogyakarta,3000010007104,The Alana Yogyakarta Hotel & Convention Center,The Alana Yogyakarta Hotel & Convention Center,"Ngaglik, Yogyakarta",4.0,8.8,6564.0,Mengesankan
+Yogyakarta,3000020001130,Sheraton Mustika Yogyakarta Resort & Spa,Sheraton Mustika Yogyakarta Resort & Spa,"Depok, Yogyakarta",5.0,8.5,2337.0,Mengesankan
+Yogyakarta,3000020003297,Yogyakarta Marriott Hotel,Yogyakarta Marriott Hotel,"Depok, Yogyakarta",5.0,9.0,3200.0,Mengesankan
+Yogyakarta,9000000974039,ARTOTEL Suites Bianti Yogyakarta,ARTOTEL Suites Bianti Yogyakarta,"Gondokusuman, Yogyakarta",5.0,8.8,250.0,Mengesankan
+Yogyakarta,289515,Royal Ambarrukmo Yogyakarta,Royal Ambarrukmo Yogyakarta,"Depok, Yogyakarta",5.0,9.0,4186.0,Mengesankan
+Yogyakarta,3000010000393,Hotel Dafam Fortuna Seturan,Hotel Dafam Fortuna Seturan,"Seturan, Yogyakarta",4.0,8.5,8044.0,Mengesankan
+Yogyakarta,3000020018650,eL Hotel Royale Yogyakarta Malioboro,eL Hotel Royale Yogyakarta Malioboro,"Jalan Malioboro, Yogyakarta",4.0,8.7,1881.0,Mengesankan
+Yogyakarta,1000000643090,Grand Mercure Yogyakarta Adi Sucipto,Grand Mercure Yogyakarta Adi Sucipto,"Depok, Yogyakarta",5.0,8.6,2186.0,Mengesankan
+Yogyakarta,3000010000813,The Rich Jogja Hotel,The Rich Jogja Hotel,"Mlati, Yogyakarta",4.0,8.5,9233.0,Mengesankan
+Yogyakarta,149155,Grand Diamond Hotel Yogyakarta,Grand Diamond Hotel Yogyakarta,"Depok, Yogyakarta",4.0,8.5,3220.0,Mengesankan
+Yogyakarta,9000001106272,Malyabhara Hotel,Malyabhara Hotel,"Jalan Malioboro, Yogyakarta",3.0,8.0,11.0,Nyaman
+Yogyakarta,3000010014429,Lafayette Boutique Hotel,Lafayette Boutique Hotel,"Depok, Yogyakarta",5.0,8.8,4897.0,Mengesankan
+Yogyakarta,3000010000269,Indoluxe Hotel Jogjakarta,Indoluxe Hotel Jogjakarta,"Ngaglik, Yogyakarta",4.0,8.7,6240.0,Mengesankan
+Yogyakarta,9000000974039,ARTOTEL Suites Bianti Yogyakarta,ARTOTEL Suites Bianti Yogyakarta,"Gondokusuman, Yogyakarta",5.0,8.8,250.0,Mengesankan
+Yogyakarta,9000001039921,Next Hotel Yogyakarta,Next Hotel Yogyakarta,"Depok, Yogyakarta",4.0,7.9,85.0,Nyaman
+Yogyakarta,344819,favehotel Kusumanegara,favehotel Kusumanegara,"Umbulharjo, Yogyakarta",3.0,8.2,5528.0,Nyaman
+Yogyakarta,3000010007197,Harper Malioboro Yogyakarta by ASTON,Harper Malioboro Yogyakarta by ASTON,"Jetis, Yogyakarta",4.0,8.8,4811.0,Mengesankan
+Yogyakarta,221496,Prime Plaza Hotel Jogjakarta,Prime Plaza Hotel Jogjakarta,"Gejayan, Yogyakarta",4.0,8.8,3042.0,Mengesankan
+Yogyakarta,3000010008396,Yellow Star Ambarukmo Hotel,Yellow Star Ambarukmo Hotel,"Depok, Yogyakarta",3.0,8.4,8527.0,Mengesankan
+Yogyakarta,3000010008560,Yellow Star Gejayan Hotel,Yellow Star Gejayan Hotel,"Gejayan, Yogyakarta",3.0,8.5,9357.0,Mengesankan
+Yogyakarta,48681,The Jayakarta Yogyakarta Hotel & Spa,The Jayakarta Yogyakarta Hotel & Spa,"Depok, Yogyakarta",4.0,8.3,4811.0,Mengesankan
+Yogyakarta,3000010008792,Grand Kangen Hotel Urip Sumoharjo Yogyakarta,Grand Kangen Hotel Urip Sumoharjo Yogyakarta,"Gondokusuman, Yogyakarta",3.0,8.5,9159.0,Mengesankan
+Yogyakarta,9000000928297,Patra Malioboro Hotel,Patra Malioboro Hotel,"Jalan Malioboro, Yogyakarta",3.0,8.9,665.0,Mengesankan
+Yogyakarta,3000010040445,Grand Keisha Yogyakarta,Grand Keisha Yogyakarta,"Gejayan, Yogyakarta",4.0,8.9,4722.0,Mengesankan
+Yogyakarta,3000010028636,KJ Hotel Yogyakarta,KJ Hotel Yogyakarta,"Jalan Prawirotaman, Yogyakarta",4.0,8.7,3385.0,Mengesankan
+Yogyakarta,186635,Abadi Hotel Malioboro Yogyakarta by Tritama Hospitality,Abadi Hotel Malioboro Yogyakarta by Tritama Hospitality,"Jalan Malioboro, Yogyakarta",4.0,8.5,4221.0,Mengesankan
+Yogyakarta,9000000927644,All Nite & Day Hotel Yogyakarta - Gejayan,All Nite & Day Hotel Yogyakarta - Gejayan,"Gondokusuman, Yogyakarta",3.0,8.4,1088.0,Mengesankan
+Yogyakarta,9000000928841,Grand Rohan Jogja,Grand Rohan Jogja,"Banguntapan, Yogyakarta",4.0,8.7,340.0,Mengesankan
+Yogyakarta,9000000924653,The Manohara Hotel Yogyakarta,The Manohara Hotel Yogyakarta,"Gejayan, Yogyakarta",4.0,8.7,294.0,Mengesankan
+Yogyakarta,1000000643112,ibis Yogyakarta Adi Sucipto,ibis Yogyakarta Adi Sucipto,"Depok, Yogyakarta",3.0,8.7,2176.0,Mengesankan
+Yogyakarta,3000010001880,Sagan Heritage Hotel,Sagan Heritage Hotel,"Gondokusuman, Yogyakarta",3.0,8.3,4228.0,Mengesankan
+Yogyakarta,9000000502431,Aveon Hotel Yogyakarta by Daphna International,Aveon Hotel Yogyakarta by Daphna International,"Depok, Yogyakarta",4.0,8.3,1410.0,Mengesankan
+Yogyakarta,3000010002676,h Boutique Hotel Jogjakarta,h Boutique Hotel Jogjakarta,"Gondokusuman, Yogyakarta",3.0,8.5,5977.0,Mengesankan
+Yogyakarta,3000010038038,Grand Sarila Hotel Yogyakarta,Grand Sarila Hotel Yogyakarta,"Gejayan, Yogyakarta",3.0,8.2,9803.0,Nyaman
+Yogyakarta,9000000511638,Student Castle Apartment HD,Student Castle Apartment HD,"Depok, Yogyakarta",0.0,7.8,165.0,Nyaman
+Yogyakarta,3000010003256,Horison Lynn Yogyakarta,Horison Lynn Yogyakarta,"Mantrijeron, Yogyakarta",3.0,8.5,6017.0,Mengesankan
+Yogyakarta,3000010008255,D'Salvatore Art & Boutique Hotel,D'Salvatore Art & Boutique Hotel,"Depok, Yogyakarta",3.0,8.4,4894.0,Mengesankan
+Solo,3000010007128,The Alana Hotel and Convention Center - Solo by ASTON,The Alana Hotel and Convention Center - Solo by ASTON,"Colomadu, Solo",4.0,8.6,6672.0,Mengesankan
+Solo,9000000801739,Swiss-Belhotel Solo,Swiss-Belhotel Solo,"Gilingan, Solo",4.0,8.7,1152.0,Mengesankan
+Solo,3000010000353,Syariah Hotel Solo,Syariah Hotel Solo,"Kartasura, Solo",4.0,8.4,7588.0,Mengesankan
+Solo,9000001071007,Grand Mercure Solo Baru,Grand Mercure Solo Baru,"Solo Baru, Solo",5.0,8.8,53.0,Mengesankan
+Solo,3000020005662,POP! Hotel Solo,POP! Hotel Solo,"Purwosari, Solo",2.0,8.5,7163.0,Mengesankan
+Solo,334898,favehotel Solo Baru,favehotel Solo Baru,"Solo Baru, Solo",3.0,8.3,10705.0,Mengesankan
+Solo,294951,favehotel Manahan - Solo,favehotel Manahan - Solo,"Kerten, Solo",3.0,8.2,11591.0,Nyaman
+Solo,2000000224310,Al Azhar Azhima Hotel Resort & Convention,Al Azhar Azhima Hotel Resort & Convention,"Ngemplak, Solo",3.0,7.8,1086.0,Nyaman
+Solo,9000001071107,MAHALAYA The Legacy Hotel,MAHALAYA The Legacy Hotel,"Setabelan, Solo",4.0,9.2,37.0,Luar Biasa
+Solo,3000010000434,Grand Orchid Hotel Solo,Grand Orchid Hotel Solo,"Timuran, Solo",3.0,8.0,6490.0,Nyaman
+Solo,3000010000434,Grand Orchid Hotel Solo,Grand Orchid Hotel Solo,"Timuran, Solo",3.0,8.0,6490.0,Nyaman
+Solo,9000000968265,LOA Living Solo Baru,LOA Living Solo Baru,"Solo Baru, Solo",3.0,8.7,361.0,Mengesankan
+Solo,3000010007590,The Amrani Syariah Hotel,The Amrani Syariah Hotel,"Kerten, Solo",3.0,8.6,1493.0,Mengesankan
+Solo,3000010040572,Hotel Tosan Solo Baru,Hotel Tosan Solo Baru,"Solo Baru, Solo",3.0,8.3,2733.0,Mengesankan
+Solo,3000010001092,Twin Star Hotel Solo,Twin Star Hotel Solo,"Kestalan, Solo",2.0,8.3,1795.0,Mengesankan
+Solo,1000000529269,Diamond Hotel,Diamond Hotel,"Purwosari, Solo",2.0,8.4,963.0,Mengesankan
+Solo,9000001107480,Fivecord Hotel Solo,Fivecord Hotel Solo,"Jebres, Solo",0.0,8.8,9.0,Mengesankan
+Solo,3000010000694,The Margangsa Hotel,The Margangsa Hotel,"Sriwedari, Solo",2.0,8.3,1236.0,Mengesankan
+Solo,1000000490513,Indah Palace Solo,Indah Palace Solo,"Tipes, Solo",3.0,8.2,1335.0,Nyaman
+Solo,9000000134084,Front One Cabin Slamet Riyadi,Front One Cabin Slamet Riyadi,"Kemlayan, Solo",1.0,8.4,1321.0,Mengesankan
+Solo,3000010008292,Assalaam Syariah Hotel Solo,Assalaam Syariah Hotel Solo,"Kartasura, Solo",3.0,8.2,973.0,Nyaman
+Solo,1000000529269,Diamond Hotel,Diamond Hotel,"Purwosari, Solo",2.0,8.4,963.0,Mengesankan
+Solo,3000010002441,Hotel Bintang Solo,Hotel Bintang Solo,"Pucang Sawit, Solo",2.0,7.6,2136.0,Nyaman
+Solo,2000000224310,Al Azhar Azhima Hotel Resort & Convention,Al Azhar Azhima Hotel Resort & Convention,"Ngemplak, Solo",3.0,7.8,1086.0,Nyaman
+Solo,65547,Hotel Sahid Jaya Solo,Hotel Sahid Jaya Solo,"Ketelan, Solo",5.0,8.2,4191.0,Nyaman
+Solo,3000010002843,Malioboro Inn Solo,Malioboro Inn Solo,"Laweyan, Solo",2.0,8.2,747.0,Nyaman
+Solo,3000010002852,Griya Surya Solo Guesthouse,Griya Surya Solo Guesthouse,"Solo Baru, Solo",1.0,8.3,1761.0,Mengesankan
+Solo,9000000808523,D'paragon Kerten,D'paragon Kerten,"Jajar, Solo",0.0,8.0,195.0,Nyaman
+Solo,3000010002845,Hotel Grand Setia Kawan,Hotel Grand Setia Kawan,"Manahan, Solo",3.0,7.1,762.0,Nyaman
+Solo,9000000974332,Luxury Inn Guest House,Luxury Inn Guest House,"Jajar, Solo",0.0,8.6,31.0,Mengesankan
+Solo,3000010002848,Griya Tenera Syariah,Griya Tenera Syariah,"Tegalharjo, Solo",1.0,8.1,938.0,Nyaman
+Surabaya,2000000140952,Tunjungan Hotel Surabaya,Tunjungan Hotel Surabaya,"Tegalsari, Surabaya",4.0,8.0,10496.0,Nyaman
+Surabaya,433381,Grand Darmo Suite by AMITHYA,Grand Darmo Suite by AMITHYA,"Wonokromo, Surabaya",4.0,8.3,8847.0,Mengesankan
+Surabaya,486909,The Alana Surabaya,The Alana Surabaya,"Wonokromo, Surabaya",4.0,8.7,6779.0,Mengesankan
+Surabaya,1000000606757,Four Points by Sheraton Surabaya,Four Points by Sheraton Surabaya,"Tegalsari, Surabaya",4.0,9.2,144.0,Luar Biasa
+Surabaya,486909,The Alana Surabaya,The Alana Surabaya,"Wonokromo, Surabaya",4.0,8.7,6779.0,Mengesankan
+Surabaya,3000010033366,Midtown Residence Marvell City Surabaya,Midtown Residence Marvell City Surabaya,"Wonokromo, Surabaya",4.0,8.9,5368.0,Mengesankan
+Surabaya,3000010028502,Vasa Hotel Surabaya,Vasa Hotel Surabaya,"Sukomanunggal, Surabaya",5.0,8.7,3851.0,Mengesankan
+Surabaya,195613,Sheraton Surabaya Hotel and Towers,Sheraton Surabaya Hotel and Towers,"Tegalsari, Surabaya",5.0,8.8,3610.0,Mengesankan
+Surabaya,3000010008884,Premier Place Surabaya Airport,Premier Place Surabaya Airport,"Gedangan, Surabaya",3.0,8.7,4285.0,Mengesankan
+Surabaya,62311,Shangri-La Surabaya,Shangri-La Surabaya,"Sawahan, Surabaya",5.0,8.7,1908.0,Mengesankan
+Surabaya,48659,Garden Palace Hotel Powered by Archipelago,Garden Palace Hotel Powered by Archipelago,"Genteng, Surabaya",4.0,8.3,9195.0,Mengesankan
+Surabaya,3000010002158,HARRIS Hotel & Conventions Gubeng,HARRIS Hotel & Conventions Gubeng,"Gubeng, Surabaya",4.0,8.7,5889.0,Mengesankan
+Surabaya,62310,JW Marriott Hotel Surabaya,JW Marriott Hotel Surabaya,"Tegalsari, Surabaya",5.0,9.0,6550.0,Mengesankan
+Surabaya,1000000474578,Hotel Ciputra World Surabaya managed by Swiss-Belhotel International,Hotel Ciputra World Surabaya managed by Swiss-Belhotel International,"Sawahan, Surabaya",5.0,8.7,4239.0,Mengesankan
+Surabaya,3000020001103,Primebiz Hotel Surabaya,Primebiz Hotel Surabaya,"Wonokromo, Surabaya",3.5,8.5,4796.0,Mengesankan
+Surabaya,9000000133761,The Life Styles Hotel Surabaya,The Life Styles Hotel Surabaya,"Gubeng, Surabaya",3.5,8.9,12522.0,Mengesankan
+Surabaya,3000020015465,Grand Dafam Signature Surabaya,Grand Dafam Signature Surabaya,"Genteng, Surabaya",4.0,8.8,2043.0,Mengesankan
+Surabaya,3000010043134,Swiss-Belinn Airport Surabaya,Swiss-Belinn Airport Surabaya,"Gedangan, Surabaya",3.0,8.7,3334.0,Mengesankan
+Surabaya,1000000481154,Holiday Inn Express SURABAYA CENTERPOINT,Holiday Inn Express SURABAYA CENTERPOINT,"Sawahan, Surabaya",4.0,8.6,3912.0,Mengesankan
+Surabaya,401129,Bekizaar Hotel Surabaya,Bekizaar Hotel Surabaya,"Genteng, Surabaya",3.0,8.4,6978.0,Mengesankan
+Surabaya,9000000927244,Royal Tulip Darmo Surabaya,Royal Tulip Darmo Surabaya,"Tegalsari, Surabaya",5.0,8.7,258.0,Mengesankan
+Surabaya,3000010043726,Alimar Premier Hotel,Alimar Premier Hotel,"Mulyorejo, Surabaya",3.0,8.2,1832.0,Nyaman
+Surabaya,3000010012174,Hotel Aria Centra Surabaya,Hotel Aria Centra Surabaya,"Genteng, Surabaya",4.0,8.8,7348.0,Mengesankan
+Surabaya,546016,Swiss-Belinn Manyar Surabaya,Swiss-Belinn Manyar Surabaya,"Mulyorejo, Surabaya",3.0,8.6,5808.0,Mengesankan
+Surabaya,48694,Surabaya Suites Hotel Powered by Archipelago,Surabaya Suites Hotel Powered by Archipelago,"Genteng, Surabaya",4.0,8.5,8509.0,Mengesankan
+Surabaya,9000000413948,HARRIS Hotel & Conventions Bundaran Satelit Surabaya,HARRIS Hotel & Conventions Bundaran Satelit Surabaya,"Sukomanunggal, Surabaya",4.0,8.8,1554.0,Mengesankan
+Surabaya,3000020018642,Neo+ Waru Sidoarjo by ASTON,Neo+ Waru Sidoarjo by ASTON,"Waru, Surabaya",3.0,8.4,3490.0,Mengesankan
+Surabaya,3000010013021,Hotel Gunawangsa MERR,Hotel Gunawangsa MERR,"Rungkut, Surabaya",3.0,8.4,13560.0,Mengesankan
+Surabaya,2000000218205,ibis budget Surabaya Airport,ibis Budget Surabaya Airport,"Sedati, Surabaya",2.0,8.4,6972.0,Mengesankan
+Surabaya,3000010007786,POP! Hotel Stasiun Kota Surabaya,POP! Hotel Stasiun Kota Surabaya,"Pabean Cantikan, Surabaya",2.0,8.5,8040.0,Mengesankan
+Surabaya,3000010008573,POP! Hotel Diponegoro Surabaya,POP! Hotel Diponegoro Surabaya,"Wonokromo, Surabaya",2.0,8.3,12272.0,Mengesankan
+Surabaya,3000010004706,Zest Hotel Jemursari,Zest Hotel Jemursari,"Tenggilis Mejoyo, Surabaya",2.0,8.4,10975.0,Mengesankan
+Surabaya,460390,Hotel 88 Embong Malang,Hotel 88 Embong Malang,"Tegalsari, Surabaya",3.0,8.4,6898.0,Mengesankan
+Surabaya,392705,Hotel 88 Embong Kenongo (Kayoon),Hotel 88 Embong Kenongo (Kayoon),"Genteng, Surabaya",2.0,8.5,8615.0,Mengesankan
+Surabaya,251822,Prime Royal Boutique Hotel Surabaya,Prime Royal Boutique Hotel Surabaya,"Sawahan, Surabaya",3.5,8.1,5167.0,Nyaman
+Surabaya,3000010029714,Hotel 88 Kedungsari (Kedungdoro),Hotel 88 Kedungsari (Kedungdoro),"Tegalsari, Surabaya",2.0,8.6,5165.0,Mengesankan
+Surabaya,2000000222734,Amaris Hotel Embong Malang,Amaris Hotel Embong Malang,"Tegalsari, Surabaya",2.0,8.4,5494.0,Mengesankan
+Surabaya,3000010008084,The Life Hotels Surabaya City Center,The Life Hotels Surabaya City Center,"Genteng, Surabaya",2.5,8.3,11511.0,Mengesankan
+Surabaya,3000010027841,Amaris Hotel Margorejo Surabaya,Amaris Hotel Margorejo Surabaya,"Wonocolo, Surabaya",2.0,8.6,6062.0,Mengesankan
+Surabaya,9000000967033,Goldvitel Hotel Surabaya,Goldvitel Hotel Surabaya,"Genteng, Surabaya",4.0,8.2,294.0,Nyaman
+Surabaya,3000010041731,ZOOM Dharmahusada Hotel,ZOOM Dharmahusada Hotel,"Gubeng, Surabaya",3.0,8.5,2709.0,Mengesankan
+Surabaya,3000010039046,Amaris Hotel Darmo - Surabaya,Amaris Hotel Darmo - Surabaya,"Tegalsari, Surabaya",2.0,8.6,3257.0,Mengesankan
+Surabaya,3000010008884,Premier Place Surabaya Airport,Premier Place Surabaya Airport,"Gedangan, Surabaya",3.0,8.7,4285.0,Mengesankan
+Surabaya,2000000218475,Grand Inna Tunjungan,Grand Inna Tunjungan,"Genteng, Surabaya",4.0,8.5,3262.0,Mengesankan
+Surabaya,3000010038037,Hotel Dafam Pacific Caesar Surabaya,Hotel Dafam Pacific Caesar Surabaya,"Mulyorejo, Surabaya",3.0,8.8,5629.0,Mengesankan
+Surabaya,3000010033212,Sumi Hotel Surabaya,Sumi Hotel Surabaya,"Dukuh Pakis, Surabaya",2.0,8.4,6112.0,Mengesankan
+Surabaya,3000010023650,MaxOneHotels.com @ Dharmahusada - Surabaya,MaxOneHotels.com @ Dharmahusada - Surabaya,"Gubeng, Surabaya",3.0,8.6,5484.0,Mengesankan
+Surabaya,3000010005135,Yello Hotel Jemursari,Yello Hotel Jemursari,"Tenggilis Mejoyo, Surabaya",3.0,8.5,4540.0,Mengesankan
+Surabaya,9000000952915,D'Carol Hotel Surabaya,D'Carol Hotel Surabaya,"Genteng, Surabaya",3.0,8.6,553.0,Mengesankan
+Surabaya,9000001106502,Life Hotel Sudirman Surabaya,Life Hotel Sudirman Surabaya,"Genteng, Surabaya",3.0,8.2,29.0,Nyaman
+Surabaya,4166,Novotel Surabaya - Hotel & Suites,Novotel Surabaya Hotel &amp; Suites,"Wonokromo, Surabaya",4.0,8.4,4239.0,Mengesankan
+Surabaya,3000010025387,La Lisa Hotel Surabaya,La Lisa Hotel Surabaya,"Gubeng, Surabaya",3.5,8.6,3222.0,Mengesankan
+Surabaya,3000020008965,BATIQA Hotel Darmo - Surabaya,BATIQA Hotel Darmo - Surabaya,"Wonokromo, Surabaya",3.0,8.6,2206.0,Mengesankan
+Surabaya,3000010001386,Halogen Hotel Airport Surabaya,Halogen Hotel Airport Surabaya,"Sedati, Surabaya",3.0,8.3,2477.0,Mengesankan
+Jakarta,2000000141144,Aryaduta Suite Semanggi,Aryaduta Suite Semanggi,"Karet Semanggi, Jakarta",4.0,8.5,4882.0,Mengesankan
+Jakarta,62303,The Sultan Hotel & Residence Jakarta,The Sultan Hotel Jakarta,"Senayan, Jakarta",5.0,8.6,7247.0,Mengesankan
+Jakarta,9000000952972,Aloft South Jakarta,Aloft South Jakarta,"Cilandak Timur, Jakarta",4.0,8.9,467.0,Mengesankan
+Jakarta,3000020014445,Ascott Sudirman Jakarta,Ascott Sudirman Jakarta,"Karet Semanggi, Jakarta",5.0,8.6,2200.0,Mengesankan
+Jakarta,3000020007376,Yuan Garden Pasar Baru,Yuan Garden Pasar Baru,"Pasar Baru, Jakarta",4.0,8.5,3213.0,Mengesankan
+Jakarta,49739,Mercure Convention Center Ancol,Mercure Convention Center Ancol - CHSE Certified,"Ancol, Jakarta",4.0,8.4,7570.0,Mengesankan
+Jakarta,3000010000077,Discovery Ancol,Discovery Ancol,"Ancol, Jakarta",4.0,8.2,5754.0,Nyaman
+Jakarta,7584,Hotel Borobudur Jakarta,Hotel Borobudur Jakarta,"Pasar Baru, Jakarta",5.0,8.6,7103.0,Mengesankan
+Jakarta,182137,Merlynn Park Hotel,Merlynn Park Hotel,"Petojo Utara, Jakarta",5.0,8.6,19249.0,Mengesankan
+Jakarta,3000010000503,Arimbi Pejaten Suites,Arimbi Pejaten Suites,"Ragunan, Jakarta",3.0,7.9,2234.0,Nyaman
+Jakarta,9000000971405,"The Langham, Jakarta","The Langham, Jakarta","Senayan, Jakarta",5.0,8.8,340.0,Mengesankan
+Jakarta,4755,"Hotel Mulia Senayan, Jakarta","Hotel Mulia Senayan, Jakarta","Senayan, Jakarta",5.0,8.7,1540.0,Mengesankan
+Jakarta,3000020014186,Grand Hyatt Jakarta,Grand Hyatt Jakarta,"Thamrin, Jakarta",5.0,8.7,2059.0,Mengesankan
+Jakarta,3000010007126,ASTON Priority Simatupang & Conference Center,ASTON Priority Simatupang & Conference Center,"Kebagusan, Jakarta",4.0,8.6,7246.0,Mengesankan
+Jakarta,71864,Hotel Menara Peninsula,Menara Peninsula Hotel Jakarta,"Slipi, Jakarta",4.0,8.4,9253.0,Mengesankan
+Jakarta,9000001072266,The St. Regis Jakarta,The St. Regis Jakarta,"Kuningan, Jakarta",5.0,,2.0,
+Jakarta,3000020007376,Yuan Garden Pasar Baru,Yuan Garden Pasar Baru,"Pasar Baru, Jakarta",4.0,8.5,3213.0,Mengesankan
+Jakarta,546236,DoubleTree by Hilton Jakarta - Diponegoro,DoubleTree by Hilton Jakarta - Diponegoro,"Cikini, Jakarta",5.0,8.8,3244.0,Mengesankan
+Jakarta,8126,Hotel Ciputra Jakarta managed by Swiss-Belhotel International,Hotel Ciputra Jakarta managed by Swiss-Belhotel International,"Tanjung Duren, Jakarta",4.0,8.5,9261.0,Mengesankan
+Jakarta,9076,Century Park Hotel,Century Park Hotel,"Senayan, Jakarta",4.0,8.6,6830.0,Mengesankan
+Jakarta,950,Le Meridien Jakarta,Le Meridien Jakarta,"Sudirman, Jakarta",5.0,8.7,377.0,Mengesankan
+Jakarta,2000000098393,Lumire Hotel & Convention Center,Lumire Hotel & Convention Center,"Senen, Jakarta",4.0,8.5,8924.0,Mengesankan
+Jakarta,1000000476765,Best Western Premier The Hive,Best Western Premier The Hive,"Cawang, Jakarta",5.0,8.4,11091.0,Mengesankan
+Jakarta,48666,Millennium Hotel Sirih Jakarta,Millennium Hotel Sirih Jakarta,"Tanah Abang, Jakarta",4.0,8.6,4969.0,Mengesankan
+Jakarta,9000001106442,Ashley Tang Menteng,Ashley Tang Menteng,"Menteng, Jakarta",4.0,8.7,29.0,Mengesankan
+Jakarta,4000000956122,InterContinental Hotels JAKARTA PONDOK INDAH,InterContinental Hotels JAKARTA PONDOK INDAH,"Pondok Indah, Jakarta",5.0,8.9,1455.0,Mengesankan
+Jakarta,286716,Pullman Jakarta Central Park,Pullman Jakarta Central Park,"Tanjung Duren, Jakarta",5.0,8.5,2590.0,Mengesankan
+Jakarta,3000010007129,Royal Kuningan Hotel,Royal Kuningan Hotel,"Rasuna Said, Jakarta",4.0,8.5,6678.0,Mengesankan
+Jakarta,72900,Manhattan Hotel Jakarta,Manhattan Hotel Jakarta,"Rasuna Said, Jakarta",5.0,8.3,8621.0,Mengesankan
+Jakarta,3000010007726,Teraskita Hotel Jakarta managed by Dafam,Teraskita Hotel Jakarta managed by Dafam,"Cawang, Jakarta",4.0,8.6,9335.0,Mengesankan
+Jakarta,111546,Grand Tropic Suites Hotel,Grand Tropic Suites Hotel,"Tanjung Duren, Jakarta",4.0,8.0,5554.0,Nyaman
+Jakarta,1000000449987,"The Hermitage, a Tribute Portfolio Hotel, Jakarta","The Hermitage, a Tribute Portfolio Hotel, Jakarta","Menteng, Jakarta",5.0,8.9,369.0,Mengesankan
+Jakarta,3000010012507,Hariston Hotel & Suites,Hariston Hotel & Suites,"Pluit, Jakarta",4.0,8.4,4297.0,Mengesankan
+Jakarta,9000000985947,Ashley Tanah Abang,Ashley Tanah Abang,"Tanah Abang, Jakarta",0.0,8.9,275.0,Mengesankan
+Jakarta,3000010010313,Swiss-Belhotel Pondok Indah,Swiss-Belhotel Pondok Indah,"Pondok Indah, Jakarta",4.0,8.5,4538.0,Mengesankan
+Jakarta,3000010005467,Swiss-Belinn Simatupang Jakarta,Swiss-Belinn Simatupang Jakarta,"Lebak Bulus, Jakarta",3.0,8.5,7329.0,Mengesankan
+Jakarta,148771,Hotel Santika Premiere Slipi Jakarta,Hotel Santika Premiere Slipi Jakarta,"Slipi, Jakarta",4.0,8.6,6308.0,Mengesankan
+Jakarta,813,Gran Melia Jakarta,Gran Melia Jakarta,"Kuningan, Jakarta",5.0,8.8,1759.0,Mengesankan
+Jakarta,3000010013403,Holiday Inn Express JAKARTA WAHID HASYIM,Holiday Inn Express JAKARTA WAHID HASYIM,"Kebon Kacang, Jakarta",3.0,8.6,3537.0,Mengesankan
+Jakarta,3000020001008,Aloft Jakarta Wahid Hasyim,Aloft Jakarta Wahid Hasyim,"Kebon Sirih, Jakarta",4.0,8.8,1002.0,Mengesankan
+Jakarta,1000000545168,Sheraton Grand Jakarta Gandaria City Hotel,Sheraton Grand Jakarta Gandaria City Hotel,"Kebayoran Lama Utara, Jakarta",5.0,8.9,1579.0,Mengesankan
+Jakarta,9000000928498,Grand Dafam Ancol Jakarta,Grand Dafam Ancol Jakarta,"Ancol, Jakarta",4.0,8.4,434.0,Mengesankan
+Jakarta,1000000486214,Fairmont Jakarta,Fairmont Jakarta,"Senayan, Jakarta",5.0,8.9,1045.0,Mengesankan
+Jakarta,3000010007198,ASTON Pluit Hotel & Residence,ASTON Pluit Hotel & Residence,"Pluit, Jakarta",4.0,8.3,5915.0,Mengesankan
+Jakarta,71938,Redtop Hotel & Convention Center,Redtop Hotel & Convention Center,"Pecenongan, Jakarta",4.0,8.5,4209.0,Mengesankan
+Jakarta,65540,"The Ritz-Carlton Jakarta, Mega Kuningan","The Ritz-Carlton Jakarta, Mega Kuningan","Kuningan, Jakarta",5.0,8.8,2884.0,Mengesankan
+Jakarta,74877,Harris Tebet Jakarta,Harris Tebet Jakarta,"Manggarai Selatan, Jakarta",4.0,8.5,5101.0,Mengesankan
+Jakarta,3000010007125,Hotel Gren Alia Jakarta,Hotel Gren Alia Jakarta,"Senen, Jakarta",3.0,8.7,2906.0,Mengesankan
+Jakarta,7347,Shangri-La Jakarta,Shangri-La Jakarta,"Karet Tengsin, Jakarta",5.0,8.9,2262.0,Mengesankan
+Jakarta,9000000883365,Swiss-Belinn Wahid Hasyim,Swiss-Belinn Wahid Hasyim,"Kebon Kacang, Jakarta",3.0,8.4,895.0,Mengesankan
+Jakarta,46085900000,Holiday Inn Express JAKARTA PLUIT CITYGATE,Holiday Inn Express JAKARTA PLUIT CITYGATE,"Pluit, Jakarta",3.0,8.4,5158.0,Mengesankan
+Jakarta,3000010015150,Grand Whiz Poins Simatupang Jakarta,Grand Whiz Poins Simatupang Jakarta,"Lebak Bulus, Jakarta",4.0,8.6,9148.0,Mengesankan
+Jakarta,3000010031823,Harris Vertu Hotel Harmoni,Harris Vertu Hotel Harmoni,"Harmoni, Jakarta",5.0,8.6,3749.0,Mengesankan
+Jakarta,1000000533946,Swiss-Belresidences Kalibata,Swiss-Belresidences Kalibata,"Kalibata, Jakarta",4.0,8.6,8523.0,Mengesankan
+Jakarta,9000000133906,ASTON Kartika Grogol Hotel & Conference Center,ASTON Kartika Grogol Hotel & Conference Center,"Grogol, Jakarta",4.0,8.6,3896.0,Mengesankan
+Jakarta,1000000552735,Grand Mercure Jakarta Kemayoran,Grand Mercure Jakarta Kemayoran,"Gunung Sahari, Jakarta",5.0,8.7,3438.0,Mengesankan
+Jakarta,9000000874119,Sentral Cawang Hotel,Sentral Cawang Hotel,"Cawang, Jakarta",3.0,8.4,7369.0,Mengesankan
+Jakarta,74874,Ambhara Hotel,Ambhara Hotel,"Melawai, Jakarta",4.0,8.3,4857.0,Mengesankan
+Jakarta,461846,Mandarin Oriental Jakarta,Mandarin Oriental Jakarta,"Thamrin, Jakarta",5.0,9.0,1140.0,Mengesankan
+Jakarta,3000020009097,Hotel Dharmein,Hotel Dharmein,"Melawai, Jakarta",3.0,8.5,3116.0,Mengesankan
+Jakarta,1000000488195,Swiss-Belinn Kemayoran,Swiss-Belinn Kemayoran,"Kemayoran, Jakarta",3.0,8.4,3549.0,Mengesankan
+Jakarta,3000010000461,Grand Tjokro Jakarta,Grand Tjokro Jakarta,"Tanjung Duren, Jakarta",4.0,8.3,7868.0,Mengesankan
+Jakarta,399926,Grand Mercure Jakarta Harmoni,Grand Mercure Jakarta Harmoni,"Harmoni, Jakarta",5.0,8.6,1627.0,Mengesankan
+Bandung,2000000081029,eL Hotel Royale Bandung,eL Hotel Royale Bandung,"Merdeka, Bandung",4.0,8.7,16317.0,Mengesankan
+Bandung,3000010008390,Grand Tjokro Premiere Bandung,Grand Tjokro Premiere Bandung,"Cihampelas, Bandung",4.0,8.5,15901.0,Mengesankan
+Bandung,1000000570828,Four Points by Sheraton Bandung,Four Points by Sheraton Bandung,"Dago, Bandung",4.0,8.8,2190.0,Mengesankan
+Bandung,3000010009554,Aryaduta Bandung,Aryaduta Bandung,"Merdeka, Bandung",4.0,8.7,8395.0,Mengesankan
+Bandung,194479,Hilton Bandung,Hilton Bandung,"Pasirkaliki, Bandung",5.0,8.8,3130.0,Mengesankan
+Bandung,1000000511080,InterContinental Hotels BANDUNG DAGO PAKAR,InterContinental Hotels BANDUNG DAGO PAKAR,"Mekarsaluyu, Bandung",5.0,8.8,4140.0,Mengesankan
+Bandung,3000010032948,Holiday Inn BANDUNG PASTEUR,Holiday Inn BANDUNG PASTEUR,"Pasteur, Bandung",4.0,8.6,5223.0,Mengesankan
+Bandung,3000010043683,Moxy Bandung,Moxy Bandung,"Dago, Bandung",3.0,8.7,1939.0,Mengesankan
+Bandung,295675,ibis Bandung Trans Studio,ibis Bandung Trans Studio,"Buahbatu, Bandung",3.0,8.4,17868.0,Mengesankan
+Bandung,3000020008771,Easton Park Apartment Jatinangor by Diajeng,Easton Park Apartment Jatinangor by Diajeng,"Jatinangor, Bandung",0.0,7.5,682.0,Nyaman
+Bandung,3000010007325,Clove Garden Hotel & Residence,Clove Garden Hotel & Residence,"Dago, Bandung",4.0,8.2,14893.0,Nyaman
+Bandung,1000000508325,Crowne Plaza BANDUNG,Crowne Plaza BANDUNG,"Sumurbandung, Bandung",5.0,8.7,3856.0,Mengesankan
+Bandung,3000010029354,Kytos Hotel,Kytos Hotel,"Setiabudi, Bandung",3.0,8.4,6245.0,Mengesankan
+Bandung,4000000456642,Dago Heuvel Resort and Villa,Dago Heuvel Resort and Villa,"Mekarsaluyu, Bandung",2.0,8.4,591.0,Mengesankan
+Bandung,280342,The Papandayan Hotel,The Papandayan,"Lengkong, Bandung",5.0,8.8,5038.0,Mengesankan
+Bandung,3000020017895,Swiss-Belresort Dago Heritage Bandung,Swiss-Belresort Dago Heritage Bandung,"Dago Atas, Bandung",4.0,8.6,6225.0,Mengesankan
+Bandung,1000000570828,Four Points by Sheraton Bandung,Four Points by Sheraton Bandung,"Dago, Bandung",4.0,8.8,2190.0,Mengesankan
+Bandung,62293,Sheraton Bandung Hotel & Towers,Sheraton Bandung Hotel & Towers,"Dago Atas, Bandung",5.0,8.7,2213.0,Mengesankan
+Bandung,3000010001305,THE 1O1 Bandung Dago,THE 1O1 Bandung Dago,"Dago, Bandung",4.0,8.6,12553.0,Mengesankan
+Bandung,9000000966541,The Suites Metro by Desta Faris,The Suites Metro by Desta Faris,"Batununggal, Bandung",0.0,7.5,63.0,Nyaman
+Bandung,3000020009318,Janévalla Bandung,Janévalla Bandung,"Merdeka, Bandung",4.0,8.8,9593.0,Mengesankan
+Bandung,238032,The Luxton Bandung,The Luxton Bandung,"Dago, Bandung",4.0,8.5,5129.0,Mengesankan
+Bandung,49722,Grand Hotel Preanger,Grand Hotel Preanger,"Braga, Bandung",5.0,8.6,3800.0,Mengesankan
+Bandung,3000010007779,Grandia Hotel Bandung,Grandia Hotel Bandung,"Cihampelas, Bandung",4.0,8.6,9709.0,Mengesankan
+Bandung,2000000191313,V Hotel & Residence,V Hotel & Residence,"Pasteur, Bandung",3.0,8.4,14648.0,Mengesankan
+Bandung,9000000929110,Maison Teraskita Bandung,Maison Teraskita Bandung,"Asia Afrika, Bandung",4.0,8.7,788.0,Mengesankan
+Bandung,3000020003597,"Courtyard by Marriott Bandung Dago, CHSE Certified","Courtyard by Marriott Bandung Dago, CHSE Certified","Dago, Bandung",4.0,8.6,2179.0,Mengesankan
+Bandung,108951,Serela Riau by KAGUM Hotels,Serela Riau by KAGUM Hotels,"Jalan Riau, Bandung",3.0,8.0,5598.0,Nyaman
+Bandung,2000000081026,Horison Ultima Bandung,Horison Ultima Bandung,"Lengkong, Bandung",4.0,8.0,17509.0,Nyaman
+Bandung,9000000971417,Nine Inn by Edotel Dbest,Nine Inn by Edotel Dbest,"Batununggal, Bandung",2.0,7.6,35.0,Nyaman
+Bandung,3000010000305,Shakti Hotel Bandung,Shakti Hotel Bandung,"Gedebage, Bandung",4.0,8.5,9209.0,Mengesankan
+Bandung,149184,Banana Inn by KAGUM Hotels,Banana Inn by KAGUM Hotels,"Setiabudi, Bandung",4.0,8.4,6267.0,Mengesankan
+Bandung,161695,Grand Serela Setiabudhi by KAGUM Hotels,Grand Serela Setiabudhi by KAGUM Hotels,"Setiabudi, Bandung",4.0,8.0,6164.0,Nyaman
+Bandung,3000010006614,d'primahotel Bandung,d'primahotel Bandung,"Sukajadi, Bandung",3.0,8.4,6503.0,Mengesankan
+Bandung,271478,Harris Hotel & Conventions Festival Citilink Bandung,Harris Hotel & Conventions Festival Citilink Bandung,"Pasir Koja, Bandung",4.0,8.4,4955.0,Mengesankan
+Bandung,478355,Serela Merdeka by KAGUM Hotels,Serela Merdeka by KAGUM Hotels,"Dago, Bandung",3.0,8.3,6149.0,Mengesankan
+Bandung,1000000739415,Mercure Bandung City Centre,Mercure Bandung City Centre,"Asia Afrika, Bandung",4.0,8.5,2600.0,Mengesankan
+Bandung,3000020019917,Grand Sunshine Resort and Convention,Grand Sunshine Resort and Convention,"Pamekaran, Bandung",4.0,8.7,1131.0,Mengesankan
+Bandung,3000010008595,Atlantic City Hotel,Atlantic City,"Pasirkaliki, Bandung",3.0,8.5,9630.0,Mengesankan
+Bandung,291995,POP! Hotel Festival Citylink - Bandung,POP! Hotel Festival Citylink - Bandung,"Pasir Koja, Bandung",2.0,8.2,9679.0,Nyaman
+Bandung,216177,Amaroossa Bandung,Amaroossa Bandung,"Jalan Riau, Bandung",4.0,8.2,5511.0,Nyaman
+Bandung,3000010034206,ibis Bandung Pasteur,ibis Bandung Pasteur,"Pasteur, Bandung",3.0,8.5,5186.0,Mengesankan
+Bandung,2000000141122,Sensa Hotel Bandung,Sensa Hotel Bandung,"Cihampelas, Bandung",4.0,8.6,3133.0,Mengesankan
+Bandung,3000010029331,De Paviljoen Bandung,De Paviljoen Bandung,"Jalan Riau, Bandung",4.0,8.8,4384.0,Mengesankan
+Bandung,65535,"Sukajadi Hotel, Convention and Gallery","Sukajadi Hotel, Convention and Gallery","Sukajadi, Bandung",3.0,8.1,4836.0,Nyaman
+Bandung,3000010007682,Zest Hotel Sukajadi Bandung,Zest Hotel Sukajadi Bandung,"Sukajadi, Bandung",3.0,8.7,7151.0,Mengesankan
+Bandung,3000010023425,Cinnamon Hotel Boutique Syariah,Cinnamon Hotel Boutique Syariah,"Setiabudi, Bandung",4.0,9.0,1616.0,Mengesankan
+Bandung,3000010000136,Serela Waringin by KAGUM Hotels,Serela Waringin by KAGUM Hotels,"Pasirkaliki, Bandung",3.0,8.0,7622.0,Nyaman
+Bandung,3000010004492,Hemangini Hotel Bandung,Hemangini Hotel Bandung,"Setiabudi, Bandung",4.0,8.5,5488.0,Mengesankan
+Bandung,3000010038988,Sari Ater Kamboti Hotel Bandung,Sari Ater Kamboti Hotel Bandung,"Pasteur, Bandung",4.0,8.3,5865.0,Mengesankan
+Bandung,1000000484131,Hotel Dafam Rio,Hotel Dafam Rio,"Jalan Riau, Bandung",3.0,8.6,3536.0,Mengesankan
+Bandung,3000010000835,Kedaton Hotel,Kedaton Hotel,"Sumurbandung, Bandung",3.0,8.4,5277.0,Mengesankan
+Bandung,3000010043683,Moxy Bandung,Moxy Bandung,"Dago, Bandung",3.0,8.7,1939.0,Mengesankan
+Medan,129579,Cambridge Hotel Medan,Cambridge Hotel Medan,"Pusat Kota Medan, Medan",5.0,8.5,6263.0,Mengesankan
+Medan,3000010022750,JW Marriott Hotel Medan,JW Marriott Hotel Medan,"Pusat Kota Medan, Medan",5.0,8.7,7460.0,Mengesankan
+Medan,3000010000389,Saka Hotel Medan,Saka Hotel Medan,"Medan Sunggal, Medan",3.0,7.7,1527.0,Nyaman
+Medan,9000000947465,Hotel Anaya,Hotel Anaya,"Medan Baru, Medan",0.0,6.9,19.0,Baik
+Medan,3000020014393,Horison Sky Kualanamu,Horison Sky Kualanamu,"Beringin, Medan",3.0,8.5,2703.0,Mengesankan
+Medan,3000020003466,Prime Plaza Hotel Kualanamu,Prime Plaza Hotel Kualanamu,"Batang Kuis, Medan",4.0,8.6,1397.0,Mengesankan
+Medan,9000001006352,Cordex Hotel Medan,Cordex Hotel Medan,"Pusat Kota Medan, Medan",0.0,8.6,61.0,Mengesankan
+Medan,3000010020069,Miyanna Hotel,Miyanna Hotel,"Percut Sei Tuan, Medan",3.0,7.9,975.0,Nyaman
+Medan,9000000502450,OYO 2361 Hotel Winston,OYO 2361 Hotel Winston,"Tanjung Morawa, Medan",2.0,7.2,79.0,Nyaman
+Medan,9000001042218,SELECTA HOTEL,SELECTA HOTEL,"Pusat Kota Medan, Medan",4.0,8.2,70.0,Nyaman
+Medan,344407,Grand Kanaya Hotel,Grand Kanaya Hotel,"Medan Petisah, Medan",3.0,8.1,2701.0,Nyaman
+Medan,3000010028282,CREW EXPRESS Hotel,CREW EXPRESS Hotel,"Tanjung Morawa, Medan",3.0,8.3,2165.0,Mengesankan
+Medan,3000010009181,Hotel Antares,Hotel Antares,"Pusat Kota Medan, Medan",3.0,7.9,808.0,Nyaman
+Medan,9000000975057,Swasana Hotel Medan,Swasana Hotel Medan,"Medan Petisah, Medan",3.0,8.4,127.0,Mengesankan
+Medan,9000000824274,Cordela Inn Millenium Medan,Cordela Inn Millenium Medan,"Medan Helvetia, Medan",2.0,8.4,483.0,Mengesankan
+Medan,186870,Alpha Inn Medan,Alpha Inn Medan,"Medan Petisah, Medan",3.0,7.7,3815.0,Nyaman
+Medan,3000010000786,Cordela Hotel Medan,Cordela Hotel Medan,"Pusat Kota Medan, Medan",2.0,8.4,3519.0,Mengesankan
+Medan,2000000226541,Pardede International Hotel Medan,Pardede International Hotel Medan,"Medan Polonia, Medan",3.0,7.7,1076.0,Nyaman
+Medan,3000010002773,Wisma Sederhana Budget Hotel,Wisma Sederhana Budget Hotel,"Pusat Kota Medan, Medan",0.0,8.3,1700.0,Mengesankan
+Medan,4000000454962,Hotel Menara Lexus,Hotel Menara Lexus,"Medan Maimun, Medan",0.0,7.7,274.0,Nyaman
+Medan,9000001047413,NIVIA HOTEL,NIVIA HOTEL,"Medan Tembung, Medan",3.0,8.8,12.0,Mengesankan
+Medan,3000020003196,Lively Hotel Kualanamu Airport Medan,Lively Hotel Kualanamu Airport Medan,"Batang Kuis, Medan",2.0,8.0,793.0,Nyaman
+Medan,9000000630296,OYO 2345 Homestay Jaya,OYO 2345 Homestay Jaya,"Pusat Kota Medan, Medan",1.0,7.0,63.0,Baik
+Medan,3000020000121,Hotel Aero,Hotel Aero,"Tanjung Morawa, Medan",2.0,7.9,263.0,Nyaman
+Medan,3000010003076,OYO 90565 Wesly House,OYO 90565 Wesly House,"Medan Petisah, Medan",1.0,8.0,552.0,Nyaman
+Medan,3000010006697,Amaliun Hotel,Amaliun Hotel,"Pusat Kota Medan, Medan",2.0,8.1,705.0,Nyaman
+Medan,9000001099742,Odua Golden Mansyur Medan,Odua Golden Mansyur Medan,"Medan Baru, Medan",0.0,,2.0,
+Medan,9000000967170,OYO 90457 Anara Residence & Guest House,OYO 90457 Anara Residence & Guest House,"Medan Helvetia, Medan",2.0,8.4,77.0,Mengesankan
+Medan,9000000370090,OYO 1457 Tmj Guest House,OYO 1457 Tmj Guest House,"Pusat Kota Medan, Medan",1.5,7.9,213.0,Nyaman
+Medan,3000010000566,Putra Mulia Hotel,Putra Mulia Hotel,"Medan Petisah, Medan",3.0,7.8,719.0,Nyaman
+Medan,9000000174438,Alam Hotel by Cordela,Alam Hotel by Cordela,"Medan Area, Medan",3.0,8.4,172.0,Mengesankan
+Medan,1000000474312,OYO 2574 Z Suites Hotel,OYO 2574 Z Suites Hotel,"Medan Sunggal, Medan",2.0,7.3,417.0,Nyaman
+Medan,9000000947465,Hotel Anaya,Hotel Anaya,"Medan Baru, Medan",0.0,6.9,19.0,Baik
+Medan,9000000122548,OYO 456 Aljadid Guest House Syariah,OYO 456 Aljadid Guest House Syariah,"Pusat Kota Medan, Medan",2.0,8.4,156.0,Mengesankan
+Medan,3000010019269,Kanasha Hotel,Kanasha Hotel,"Pusat Kota Medan, Medan",1.0,8.8,1036.0,Mengesankan
+Medan,9000000368102,OYO 1400 Barat Residence Syariah,OYO 1400 Barat Residence Syariah,"Medan Selayang, Medan",1.5,7.6,99.0,Nyaman
+Medan,9000000966681,OYO 90447 Kardopa Hotel Megapark,OYO 90447 Kardopa Hotel Megapark,"Medan Petisah, Medan",1.0,8.1,33.0,Nyaman
+Medan,9000001043577,Huber Apartment,Huber Apartment,"Medan Selayang, Medan",2.0,7.8,320.0,Nyaman
+Medan,3000020003206,My Studio Hotel Kualanamu Airport Medan,My Studio Hotel Kualanamu Airport Medan,"Batang Kuis, Medan",1.0,8.3,805.0,Mengesankan
+Medan,9000000369531,OYO 1183 Papakoel,OYO 1183 Papakoel,"Medan Baru, Medan",1.0,8.1,147.0,Nyaman
+Medan,3000010016528,Vivo Stay,Vivo Stay,"Pusat Kota Medan, Medan",2.0,7.6,348.0,Nyaman
+Medan,9000000134967,OYO 873 Kamani Homestay Syariah,OYO 873 Kamani Homestay Syariah,"Medan Sunggal, Medan",1.0,8.3,237.0,Mengesankan
+Medan,3000020021462,OYO 359 Executive Inn,OYO 359 Executive Inn,"Medan Tembung, Medan",1.0,8.1,143.0,Nyaman
+Denpasar,9000000414227,Adi Pelita Sari,Adi Pelita Sari,"Denpasar Barat, Denpasar",0.0,8.6,6.0,Mengesankan
+Banda Aceh,3000010003879,Hermes Palace by BENCOOLEN,Hermes Palace by BENCOOLEN,"Ulee Kareng, Banda Aceh",5.0,8.4,2544.0,Mengesankan
+Banda Aceh,3000010006969,Hip Hope Hotel,Hip Hope Hotel,"Baiturrahman, Banda Aceh",2.0,8.7,994.0,Mengesankan
+Banda Aceh,3000020003208,Kyriad Hotel Muraya Aceh,Kyriad Hotel Muraya Aceh,"Kuta Alam, Banda Aceh",4.0,8.6,1875.0,Mengesankan
+Banda Aceh,3000010043567,Arabia Hotel,Arabia Hotel,"Kuta Alam, Banda Aceh",3.0,8.0,751.0,Nyaman
+Banda Aceh,109027,The Pade Hotel,The Pade Hotel,"Banda Raya, Banda Aceh",3.0,8.5,1283.0,Mengesankan
+Banda Aceh,3000020006100,Ayani Hotel Banda Aceh,Ayani Hotel Banda Aceh,"Kuta Alam, Banda Aceh",3.0,8.5,634.0,Mengesankan
+Banda Aceh,2000000488116,Hotel Medan Banda Aceh,Hotel Medan Banda Aceh,"Kuta Alam, Banda Aceh",0.0,8.4,179.0,Mengesankan
+Banda Aceh,9000000475431,SPOT ON 2134 Seunia Hotel,SPOT ON 2134 Seunia Hotel,"Syiah Kuala, Banda Aceh",1.0,8.0,166.0,Nyaman
+Banda Aceh,3000010003870,Grand Arabia Hotel,Grand Arabia Hotel,"Meuraksa, Banda Aceh",3.0,8.5,542.0,Mengesankan
+Banda Aceh,9000000972937,Plum Hotel Lading Banda Aceh,Plum Hotel Lading Banda Aceh,"Baiturrahman, Banda Aceh",3.0,8.1,50.0,Nyaman
+Banda Aceh,3000010015804,Hotel Rasamala,Hotel Rasamala,"Banda Raya, Banda Aceh",3.0,8.3,277.0,Mengesankan
+Banda Aceh,9000000971091,Hotel Amel & Convention Hall,Hotel Amel & Convention Hall,"Meuraksa, Banda Aceh",3.0,8.2,29.0,Nyaman
+Banda Aceh,3000020016227,OYO 854 Ub Caisar Hotel,OYO 854 Ub Caisar Hotel,"Syiah Kuala, Banda Aceh",2.0,7.0,507.0,Baik
+Banda Aceh,3000010001183,Hotel Mekkah,Hotel Mekkah,"Kuta Alam, Banda Aceh",3.0,7.6,826.0,Nyaman
+Banda Aceh,9000000925855,MyHome Hotel Aceh,MyHome Hotel Aceh,"Kuta Alam, Banda Aceh",0.0,8.5,51.0,Mengesankan
+Banda Aceh,3000010001554,Kumala Hotel Banda Aceh,Kumala Hotel Banda Aceh,"Ulee Kareng, Banda Aceh",2.0,8.5,490.0,Mengesankan
+Banda Aceh,3000010003896,Grand Nanggroe Hotel,Grand Nanggroe Hotel,"Lueng Bata, Banda Aceh",3.0,7.5,291.0,Nyaman
+Banda Aceh,3000010041579,Seventeen Hotel,Seventeen Hotel,"Baiturrahman, Banda Aceh",3.0,8.5,390.0,Mengesankan
+Banda Aceh,3000010003881,Hotel 61 Banda Aceh,Hotel 61 Banda Aceh,"Kuta Alam, Banda Aceh",2.0,7.7,511.0,Nyaman
+Banda Aceh,9000000690749,Mita Mulia Hotel,Mita Mulia Hotel,"Syiah Kuala, Banda Aceh",0.0,8.4,68.0,Mengesankan
+Banda Aceh,3000010001555,Oasis Atjeh Hotel,Oasis Atjeh Hotel,"Lueng Bata, Banda Aceh",3.0,8.2,435.0,Nyaman
+Banda Aceh,3000020006150,Al-Hanifi Hotel,Al-Hanifi Hotel,"Kuta Alam, Banda Aceh",0.0,8.4,234.0,Mengesankan
+Banda Aceh,9000000457742,Capital O 2018 Ring Road Guest House Syariah,Capital O 2018 Ring Road Guest House Syariah,"Lueng Bata, Banda Aceh",2.0,8.0,140.0,Nyaman
+Banda Aceh,9000000475431,SPOT ON 2134 Seunia Hotel,SPOT ON 2134 Seunia Hotel,"Syiah Kuala, Banda Aceh",1.0,8.0,166.0,Nyaman
+Banda Aceh,3000020016394,My Home Aceh,My Home Aceh,"Kuta Alam, Banda Aceh",0.0,8.4,188.0,Mengesankan
+Banda Aceh,3000020018796,Capital O 1630 Hotel Syariah Ring Road,Capital O 1630 Hotel Syariah Ring Road,"Lueng Bata, Banda Aceh",1.5,7.8,324.0,Nyaman
+Banda Aceh,3000010003869,Hotel Madinah,Hotel Madinah,"Kuta Alam, Banda Aceh",2.0,6.9,194.0,Baik
+Banda Aceh,9000001043455,Hozby Family Suites,Hozby Family Suites,"Banda Raya, Banda Aceh",0.0,,,
+Padang,411648,The ZHM Premiere (d/h Grand Zuri) Padang,The ZHM Premiere (d/h Grand Zuri) Padang,"Padang Selatan, Padang",4.0,8.6,8050.0,Mengesankan
+Padang,344282,Truntum Padang Hotel,Truntum Padang Hotel,"Padang Barat, Padang",4.0,8.6,5134.0,Mengesankan
+Padang,1000000464585,Pangeran Beach Hotel,Pangeran Beach Hotel,"Padang Utara, Padang",4.0,8.3,4637.0,Mengesankan
+Padang,3000010000635,Rocky Plaza Hotel Padang,Rocky Plaza Hotel Padang,"Padang Barat, Padang",4.0,8.3,8221.0,Mengesankan
+Padang,399934,Mercure Padang,Mercure Padang,"Padang Barat, Padang",4.0,8.4,1921.0,Mengesankan
+Padang,9000000973808,Ocean Beach Hotel,Ocean Beach Hotel,"Padang Barat, Padang",3.5,8.4,322.0,Mengesankan
+Padang,3000010000635,Rocky Plaza Hotel Padang,Rocky Plaza Hotel Padang,"Padang Barat, Padang",4.0,8.3,8221.0,Mengesankan
+Padang,3000010001335,The Axana Hotel,The Axana Hotel,"Padang Barat, Padang",4.0,8.0,5440.0,Nyaman
+Padang,3000010001335,The Axana Hotel,The Axana Hotel,"Padang Barat, Padang",4.0,8.0,5440.0,Nyaman
+Padang,3000010000525,Kyriad Bumiminang Hotel Padang,Kyriad Bumiminang Hotel Padang,"Padang Barat, Padang",4.0,8.0,4361.0,Nyaman
+Padang,3000010018845,favehotel Olo Padang,favehotel Olo Padang,"Padang Barat, Padang",3.0,8.1,6737.0,Nyaman
+Padang,267855,HW Hotel Padang,HW Hotel Padang,"Padang Barat, Padang",3.5,8.2,4555.0,Nyaman
+Padang,3000010011530,Deivan Hotel,Deivan Hotel,"Padang Barat, Padang",2.0,8.3,1624.0,Mengesankan
+Padang,3000010013076,Imelda Hotel - Water Park - Convention,Imelda Hotel - Water Park - Convention,"Pauh, Padang",4.0,8.0,766.0,Nyaman
+Padang,9000000806088,OYO 3092 Falah Residence Syariah,OYO 3092 Falah Residence Syariah,"Padang Timur, Padang",1.0,8.5,180.0,Mengesankan
+Padang,3000010000613,Hotel Savali,Hotel Savali,"Padang Barat, Padang",3.0,8.1,562.0,Nyaman
+Padang,9000000320834,UNP Hotel & Convention Center,UNP Hotel & Convention Center,"Padang Utara, Padang",3.0,8.3,279.0,Mengesankan
+Padang,9000000924635,OYO 4010 Zaara Guest House Syariah,OYO 4010 Zaara Guest House Syariah,"Padang Timur, Padang",1.0,7.3,80.0,Nyaman
+Padang,3000020007021,Nagari Koto Gadang,Nagari Koto Gadang,"Padang Barat, Padang",0.0,8.9,183.0,Mengesankan
+Padang,3000010014031,New d'Dhave Hotel,New d'Dhave Hotel,"Nanggalo, Padang",2.5,8.1,1084.0,Nyaman
+Padang,9000000806746,OYO 3305 Bumi Siliwangi Residence,OYO 3305 Bumi Siliwangi Residence,"Padang Utara, Padang",1.0,7.7,74.0,Nyaman
+Padang,9000000659662,Fazarel Residence Syariah,Fazarel Residence Syariah,"Padang Barat, Padang",2.0,8.3,118.0,Mengesankan
+Padang,9000001071452,d'Dhave hotel,d'Dhave hotel,"Padang Barat, Padang",0.0,7.7,433.0,Nyaman
+Padang,9000000972703,TANAHOTEL PADANG,TANAHOTEL PADANG,"Padang Utara, Padang",2.0,8.4,42.0,Mengesankan
+Padang,3000020012867,Kinol Homestay,Kinol Homestay,"Padang Selatan, Padang",1.0,7.6,149.0,Nyaman
+Padang,3000010043666,Palanta Roemah Kajoe Syariah,Palanta Roemah Kajoe Syariah,"Lubuk Begalung, Padang",0.0,7.9,96.0,Nyaman
+Padang,9000000370230,OYO 1673 M Authentic Kost Man,OYO 1673 M Authentic Kost Man,"Padang Barat, Padang",2.0,7.4,109.0,Nyaman
+Padang,9000001099627,OYO 91675 Utama Residence,OYO 91675 Utama Residence,"Padang Utara, Padang",0.0,,1.0,
+Padang,9000000873739,Kelapa Gading Guesthouse II,Kelapa Gading Guesthouse II,"Padang Utara, Padang",0.0,7.9,39.0,Nyaman
+Padang,3000010010541,Jesnic Hotel,Jesnic Hotel,"Padang Selatan, Padang",1.0,7.8,169.0,Nyaman
+Padang,9000000986701,TEE HOTEL,TEE HOTEL,"Nanggalo, Padang",0.0,8.3,10.0,Mengesankan
+Padang,3000020017379,Wisma Ayank,Wisma Ayank,"Lubuk Begalung, Padang",1.0,8.6,153.0,Mengesankan
+Padang,9000000924635,OYO 4010 Zaara Guest House Syariah,OYO 4010 Zaara Guest House Syariah,"Padang Timur, Padang",1.0,7.3,80.0,Nyaman
+Padang,3000010035912,Wisma Tatar Pasundan,Wisma Tatar Pasundan,"Padang Utara, Padang",0.0,8.1,108.0,Nyaman
+Padang,9000000808760,Fafan Budget Hotel Syariah,Fafan Budget Hotel Syariah,"Padang Utara, Padang",0.0,7.7,27.0,Nyaman
+Padang,9000000986676,HOTEL RUMAH RB,HOTEL RUMAH RB,"Padang Timur, Padang",0.0,6.6,7.0,Baik
+Padang,3000010010584,Hotel Bintang Padang,Hotel Bintang Padang,"Padang Barat, Padang",1.0,7.7,61.0,Nyaman
+Padang,3000010039867,Lestari Guesthouse,Lestari Guesthouse,"Padang Barat, Padang",0.0,8.4,196.0,Mengesankan
+Padang,3000020013744,Wisma Rumah KIta,Wisma Rumah KIta,"Padang Barat, Padang",1.5,8.4,121.0,Mengesankan
+Padang,3000010043188,Rumah Tamu Agung,Rumah Tamu Agung,"Padang Timur, Padang",0.0,8.4,45.0,Mengesankan
+Palembang,3000020008697,Wyndham Opi Hotel Palembang,Wyndham Opi Hotel Palembang,"Plaju, Palembang",5.0,8.5,5976.0,Mengesankan
+Palembang,3000010002189,Beston Hotel Palembang (FKA Horison Ultima Palembang),Beston Hotel Palembang (FKA Horison Ultima Palembang),"Ilir Timur I, Palembang",4.0,8.5,10058.0,Mengesankan
+Palembang,230345,The Alts Hotel,The Alts Hotel,"Ilir Timur II, Palembang",4.0,8.6,7144.0,Mengesankan
+Palembang,3000010007189,ASTON Palembang Hotel & Conference Center,ASTON Palembang Hotel & Conference Center,"Ilir Timur II, Palembang",4.0,8.5,6467.0,Mengesankan
+Palembang,3000010040222,All Nite & Day Palembang - Veteran,All Nite & Day Palembang - Veteran,"Ilir Timur I, Palembang",3.0,8.6,7479.0,Mengesankan
+Palembang,335926,MaxOneHotels.com @ Vivo Palembang,MaxOneHotels.com @ Vivo Palembang,"Ilir Timur II, Palembang",3.0,8.2,12846.0,Nyaman
+Palembang,3000020009998,The Zuri Palembang,The Zuri Palembang,"Bukit Kecil, Palembang",4.0,8.6,7298.0,Mengesankan
+Palembang,3000020017884,OYO 236 Penginapan Rumah Hijau,OYO 236 Penginapan Rumah Hijau,"Ilir Timur II, Palembang",1.0,7.6,76.0,Nyaman
+Palembang,3000010007593,BATIQA Hotel Palembang,BATIQA Hotel Palembang,"Ilir Barat I, Palembang",3.5,8.5,7602.0,Mengesankan
+Palembang,3000010007230,favehotel Palembang,favehotel Palembang,"Ilir Timur II, Palembang",3.0,8.4,8960.0,Mengesankan
+Palembang,3000020018623,Harper Palembang by ASTON,Harper Palembang by ASTON,"Ilir Timur II, Palembang",4.0,8.4,4254.0,Mengesankan
+Palembang,3000010019656,Hotel Santika Radial Palembang,Hotel Santika Radial Palembang,"Bukit Kecil, Palembang",3.0,8.5,6886.0,Mengesankan
+Palembang,3000010034754,The Excelton Hotel,The Excelton Hotel,"Ilir Barat I, Palembang",5.0,8.5,4890.0,Mengesankan
+Palembang,3000010002919,Algoritma Hotel Palembang,Algoritma Hotel Palembang,"Ilir Timur II, Palembang",3.0,8.4,8010.0,Mengesankan
+Palembang,3000010028750,The 1O1 Palembang Rajawali,The 1O1 Palembang Rajawali,"Ilir Timur II, Palembang",4.0,8.6,5593.0,Mengesankan
+Palembang,3000010026278,Ayola Sentosa Palembang,Ayola Sentosa Palembang,"Ilir Timur I, Palembang",3.0,8.5,3541.0,Mengesankan
+Palembang,1000000509594,Emilia Hotel By Amazing - Palembang,Emilia Hotel By Amazing - Palembang,"Bukit Kecil, Palembang",3.0,8.6,4120.0,Mengesankan
+Palembang,9000000952536,Luminor Hotel Palembang,Luminor Hotel Palembang,"Ilir Timur I, Palembang",3.0,8.2,108.0,Nyaman
+Palembang,9000000575016,Opa Hotel Palembang,Opa Hotel Palembang,"Ilir Timur II, Palembang",4.0,8.3,796.0,Mengesankan
+Palembang,9000000966994,Rid's Hotel Palembang,Rid's Hotel Palembang,"Alang-Alang Lebar, Palembang",3.0,8.8,187.0,Mengesankan
+Palembang,3000020013607,Cordela Inn R. Sukamto Palembang,Cordela Inn R. Sukamto Palembang,"Ilir Timur II, Palembang",2.0,8.5,1392.0,Mengesankan
+Palembang,2000000217848,Sintesa Peninsula Hotel Palembang,Sintesa Peninsula Hotel Palembang,"Ilir Timur II, Palembang",4.0,8.2,2376.0,Nyaman
+Palembang,2000000212517,Rio City Hotel,Rio City Hotel,"Ilir Timur II, Palembang",3.0,7.9,3204.0,Nyaman
+Palembang,3000020013141,Hotel Harvani,Hotel Harvani,"Ilir Timur II, Palembang",2.0,8.1,1673.0,Nyaman
+Palembang,3000010011776,Barong Hotel,Barong Hotel,"Ilir Barat I, Palembang",1.0,8.1,4878.0,Nyaman
+Palembang,3000020002393,Bina Darma Hotel Palembang,Bina Darma Hotel Palembang,"Seberang Ulu I, Palembang",2.0,8.1,807.0,Nyaman
+Palembang,3000020016188,OYO 142 Hotel Al Furqon Syariah,OYO 142 Hotel Al Furqon Syariah,"Ilir Timur II, Palembang",2.0,8.4,420.0,Mengesankan
+Palembang,3000020020936,The Emerald Inn,The Emerald Inn,"Ilir Barat I, Palembang",1.5,8.3,207.0,Mengesankan
+Palembang,3000010031475,Denata B&B,Denata B&B,"Ilir Timur I, Palembang",2.0,8.5,899.0,Mengesankan
+Palembang,3000020014797,Cemerlang Inn,Cemerlang Inn,"Ilir Timur I, Palembang",0.0,8.0,1340.0,Nyaman
+Palembang,3000020017880,Alpha Family Kostel,Alpha Family Kostel,"Ilir Timur II, Palembang",2.0,8.2,195.0,Nyaman
+Palembang,3000020009000,Homestay 82 Syariah Palembang,Homestay 82 Syariah Palembang,"Ilir Timur II, Palembang",2.0,8.4,205.0,Mengesankan
+Palembang,3000010015836,Radial Mas,Radial Mas,"Bukit Kecil, Palembang",1.0,8.0,648.0,Nyaman
+Palembang,9000000368886,U_xpress Hotel,U_xpress Hotel,"Ilir Timur I, Palembang",0.0,8.3,72.0,Mengesankan
+Palembang,3000010011593,Hotel Alam Sutra,Hotel Alam Sutra,"Sukarame, Palembang",2.0,8.2,346.0,Nyaman
+Palembang,9000000806641,OYO 3431 Alpha Hotel Syariah,OYO 3431 Alpha Hotel Syariah,"Sukarame, Palembang",1.0,8.2,59.0,Nyaman
+Palembang,9000000958303,Circle One,Circle One,"Ilir Timur I, Palembang",0.0,8.4,53.0,Mengesankan
+Palembang,9000001071221,Desilva Bandara,Desilva Bandara,"Sukarame, Palembang",2.0,8.3,6.0,Mengesankan
+Palembang,9000000369854,OYO 1389 Hotel Carissima,OYO 1389 Hotel Carissima,"Ilir Timur I, Palembang",1.0,7.6,61.0,Nyaman
+Palembang,9000000947765,OYO 90226 Penginapan Sederhana Syariah,OYO 90226 Penginapan Sederhana Syariah,"Ilir Timur II, Palembang",1.0,8.5,53.0,Mengesankan
+Palembang,9000001072131,roriz house palembang,roriz house palembang,"Sukarame, Palembang",0.0,,3.0,
+Palembang,9000000883084,Wisma Cendana Syariah,Wisma Cendana Syariah,"Ilir Timur II, Palembang",0.0,8.7,76.0,Mengesankan
+Palembang,9000000966659,Collection O 90428 Remington Hotel,Collection O 90428 Remington Hotel,"Ilir Timur II, Palembang",0.0,8.5,34.0,Mengesankan
+Palembang,3000010033280,D'Paragon Dwikora,D'Paragon Dwikora,"Ilir Barat I, Palembang",0.0,7.8,449.0,Nyaman
+Palembang,9000000414128,OYO 1868 Penginapan Sekip,OYO 1868 Penginapan Sekip,"Ilir Timur II, Palembang",0.0,7.8,32.0,Nyaman
+Palembang,9000000501818,OYO 2177 Trikora Indah Residence Palembang,OYO 2177 Trikora Indah Residence Palembang,"Ilir Barat I, Palembang",1.0,7.3,96.0,Nyaman
+Palembang,9000001072910,OYO 91680 Hotel Mentari,OYO 91680 Hotel Mentari,"Sukarame, Palembang",0.0,,1.0,
+Palembang,3000020018246,Hotel Grand Putri Sriwijaya Syariah,Hotel Grand Putri Sriwijaya Syariah,"Plaju, Palembang",0.0,8.4,83.0,Mengesankan
+Palembang,3000010033253,D'Paragon Trikora,D'Paragon Trikora,"Ilir Barat I, Palembang",0.0,8.0,620.0,Nyaman
+Palembang,9000000966626,OYO 90412 My Kost,OYO 90412 My Kost,"Ilir Timur I, Palembang",0.0,7.1,34.0,Nyaman
+Palembang,9000001043657,Green Guesthouse,Green Guesthouse,"Sukarame, Palembang",0.0,8.5,11.0,Mengesankan
+Palembang,3000010035381,OYO 91160 Wisma Srijaya Syariah,OYO 91160 Wisma Srijaya Syariah,"Ilir Barat I, Palembang",1.5,7.6,137.0,Nyaman
+Palembang,9000001099707,OYO 91805 Hotel Wisma Bari,OYO 91805 Hotel Wisma Bari,"Ilir Timur I, Palembang",0.0,,3.0,
+Bogor,2000000188453,Lorin Sentul Hotel,Lorin Sentul Hotel,"Sentul, Bogor",4.0,7.9,9907.0,Nyaman
+Bogor,3000010012316,ASTON Sentul Lake Resort & Conference Center,ASTON Sentul Lake Resort & Conference Center,"Sentul, Bogor",4.0,8.5,4138.0,Mengesankan
+Bogor,3000010001702,Grand Savero Hotel Bogor,Grand Savero Hotel Bogor,"Padjajaran, Bogor",4.0,8.5,6859.0,Mengesankan
+Bogor,1000000475287,R Hotel Rancamaya,R Hotel Rancamaya,"Bogor Selatan, Bogor",4.0,8.8,5631.0,Mengesankan
+Bogor,3000020021201,Horison Ultima Bhuvana Ciawi,Horison Ultima Bhuvana Ciawi,"Ciawi, Bogor",4.0,8.5,1192.0,Mengesankan
+Bogor,49743,Novotel Bogor Golf Resort & Convention Center,Novotel Bogor Golf Resort & Convention Center,"Bogor Raya, Bogor",5.0,8.4,3630.0,Mengesankan
+Bogor,1000000568953,ibis Styles Bogor Raya,ibis Styles Bogor Raya,"Bogor Raya, Bogor",4.0,8.8,6948.0,Mengesankan
+Bogor,2000000188453,Lorin Sentul Hotel,Lorin Sentul Hotel,"Sentul, Bogor",4.0,7.9,9907.0,Nyaman
+Bogor,1000000487749,THE 1O1 Bogor Suryakancana,THE 1O1 Bogor Suryakancana,"Jalan Suryakencana, Bogor",4.0,8.7,8788.0,Mengesankan
+Bogor,9000000690775,Savero Style Bogor,Savero Style Bogor,"Padjajaran, Bogor",2.0,8.5,3899.0,Mengesankan
+Bogor,9000001107767,Swiss-Belcourt Bogor,Swiss-Belcourt Bogor,"Tanah Sareal, Bogor",3.0,8.0,17.0,Nyaman
+Bogor,3000010003155,The Highland Park Resort Bogor,The Highland Park Resort Bogor,"Ciapus, Bogor",3.0,8.5,1263.0,Mengesankan
+Bogor,3000010001004,Padjadjaran Suites Resort & Convention Hotel,Padjadjaran Suites Resort & Convention Hotel,"Bogor Nirwana Residence, Bogor",4.0,8.2,4307.0,Nyaman
+Bogor,3000010000998,Arch Hotel Bogor,Arch Hotel Bogor,"Padjajaran, Bogor",3.5,8.3,6116.0,Mengesankan
+Bogor,3000010001332,Padjadjaran Hotel,Padjadjaran Hotel,"Padjajaran, Bogor",4.0,8.2,5438.0,Nyaman
+Bogor,3000010004583,The Sahira Hotel ( Syariah Hotel ),The Sahira Hotel ( Syariah Hotel ),"Tanah Sareal, Bogor",4.0,8.7,2959.0,Mengesankan
+Bogor,3000010016717,Green Forest Bogor,Green Forest Bogor,"Bogor Selatan, Bogor",4.0,7.9,1634.0,Nyaman
+Bogor,3000010000693,Izi Hotel,Izi Hotel,"Pakuan, Bogor",2.5,8.0,8232.0,Nyaman
+Bogor,3000020016535,Lido Lake Resort by MNC Hotel,Lido Lake Resort by MNC Hotel,"Lido, Bogor",4.0,8.4,1184.0,Mengesankan
+Bogor,3000010001750,Royal Hotel Bogor,Royal Hotel Bogor,"Juanda, Bogor",4.0,8.3,4036.0,Mengesankan
+Bogor,3000010000747,Hotel Permata Bogor,Hotel Permata Bogor,"Padjajaran, Bogor",3.0,8.3,4601.0,Mengesankan
+Bogor,3000010033116,Onih Hotel,Onih Hotel,"Juanda, Bogor",3.0,8.6,1574.0,Mengesankan
+Bogor,3000010023383,Citrus-house,Citrus-house,"Bogor Timur, Bogor",1.0,8.7,3476.0,Mengesankan
+Bogor,3000010043657,New Green Sentul Resort & Hotel,New Green Sentul Resort & Hotel,"Sentul, Bogor",1.0,8.0,1098.0,Nyaman
+Bogor,3000010007512,Sahira Butik Hotel (Syariah Hotel),Sahira Butik Hotel Paledang,"Juanda, Bogor",3.0,8.6,1818.0,Mengesankan
+Bogor,3000020008052,Sahira Butik Pakuan (Syariah Hotel),Sahira Butik Pakuan (Syariah Hotel),"Pakuan, Bogor",3.0,8.7,1029.0,Mengesankan
+Bogor,9000000134739,Pelindo Residence (Syariah),Pelindo Residence (Syariah),"Ciawi, Bogor",3.0,8.6,548.0,Mengesankan
+Bogor,3000020002127,The Village Resort Bogor By Waringin Hospitality,The Village Resort Bogor By Waringin Hospitality,"Caringin, Bogor",2.0,7.7,182.0,Nyaman
+Bogor,3000010001548,Rizen Padjadjaran Hotel,Rizen Padjadjaran Hotel,"Pakuan, Bogor",3.0,8.2,756.0,Nyaman
+Bogor,9000000972243,Light Box,Light Box,"Padjajaran, Bogor",2.0,8.2,207.0,Nyaman
+Bogor,9000001039929,Sienna Residence,Sienna Residence,"Ciomas, Bogor",0.0,8.8,49.0,Mengesankan
+Bogor,3000010009014,CICO Resort (Cottage & Convention),CICO Resort (Cottage & Convention),"Bogor Utara, Bogor",1.0,8.5,203.0,Mengesankan
+Bogor,3000010021798,Polaz  Bed & Brew,Polaz  Bed & Brew,"Bogor Utara, Bogor",1.0,8.5,395.0,Mengesankan
+Semarang,3000020011083,Po Hotel (FKA Crowne Plaza Semarang),Po Hotel (FKA Crowne Plaza Semarang),"Semarang Tengah, Semarang",5.0,8.4,2265.0,Mengesankan
+Semarang,108994,Gumaya Tower Hotel Semarang,Gumaya Tower Hotel Semarang,"Semarang Tengah, Semarang",5.0,8.8,4521.0,Mengesankan
+Semarang,3000010000522,Amanda Hills Bandungan,Amanda Hills Bandungan,"Bandungan, Semarang",3.0,8.1,3052.0,Nyaman
+Semarang,62307,Hotel Ciputra Semarang managed by Swiss-Belhotel International,Hotel Ciputra Semarang managed by Swiss-Belhotel International,"Semarang Tengah, Semarang",5.0,8.6,7507.0,Mengesankan
+Semarang,2000000147040,Grand Candi Hotel Semarang,Grand Candi Hotel Semarang,"Candisari, Semarang",5.0,8.3,3942.0,Mengesankan
+Semarang,290326,Whiz Hotel Pemuda Semarang,Whiz Hotel Pemuda Semarang,"Semarang Tengah, Semarang",2.0,8.3,16763.0,Mengesankan
+Semarang,3000020000086,HA-KA Simpang Lima Hotel Semarang,HA-KA Simpang Lima Hotel Semarang,"Semarang Tengah, Semarang",3.0,8.4,5238.0,Mengesankan
+Semarang,71928,Metro Park View Hotel,Metro Park View Hotel,"Semarang Tengah, Semarang",4.0,8.6,8886.0,Mengesankan
+Semarang,71928,Metro Park View Hotel,Metro Park View Hotel,"Semarang Tengah, Semarang",4.0,8.6,8886.0,Mengesankan
+Semarang,9000000889400,Golden City Hotel and Convention Center,Golden City Hotel and Convention Center,"Kota Lama, Semarang",4.0,8.5,708.0,Mengesankan
+Semarang,1000000572139,Horison Kota Lama Semarang,Horison Kota Lama Semarang,"Semarang Timur, Semarang",3.0,8.2,4984.0,Nyaman
+Semarang,9000000889400,Golden City Hotel and Convention Center,Golden City Hotel and Convention Center,"Kota Lama, Semarang",4.0,8.5,708.0,Mengesankan
+Semarang,3000010021689,Wimarion Hotel Semarang,Wimarion Hotel Semarang,"Candisari, Semarang",4.0,8.6,2494.0,Mengesankan
+Semarang,241388,Hotel Dafam Semarang,Hotel Dafam Semarang,"Semarang Tengah, Semarang",4.0,8.3,6323.0,Mengesankan
+Semarang,3000020013298,The Azana Hotel Airport Semarang,The Azana Hotel Airport Semarang,"Semarang Barat, Semarang",4.0,8.4,1094.0,Mengesankan
+Semarang,3000010000522,Amanda Hills Bandungan,Amanda Hills Bandungan,"Bandungan, Semarang",3.0,8.1,3052.0,Nyaman
+Semarang,3000010000144,Hotel Citradream Semarang,Hotel Citradream Semarang,"Semarang Tengah, Semarang",2.0,8.4,7607.0,Mengesankan
+Semarang,3000020017992,Citrip Hotel Simpang Lima (FKA CityOne),Citrip Hotel Simpang Lima (FKA CityOne),"Semarang Tengah, Semarang",2.0,8.2,1593.0,Nyaman
+Semarang,3000010003936,Grand Panorama Hotel,Grand Panorama Hotel,"Bandungan, Semarang",1.0,8.1,1349.0,Nyaman
+Semarang,3000010000698,Hotel Grasia,Hotel Grasia,"Gajahmungkur, Semarang",3.0,8.1,3020.0,Nyaman
+Semarang,295610,Hotel Dalu Semarang,Hotel Dalu Semarang,"Pedurungan, Semarang",2.0,8.3,1743.0,Mengesankan
+Semarang,3000010001538,Candiview Hotel Semarang,Candiview Hotel Semarang,"Gajahmungkur, Semarang",2.0,8.3,4643.0,Mengesankan
+Semarang,3000010007018,Hotel Pantes Candi Simpang Lima,Hotel Pantes Candi Simpang Lima,"Candisari, Semarang",1.0,8.1,1490.0,Nyaman
+Semarang,3000010001224,Terra Cassa Hotel,Terra Cassa Hotel,"Bandungan, Semarang",3.0,8.5,2060.0,Mengesankan
+Yogyakarta,3000010039024,INNSIDE by Melia Yogyakarta,INNSIDE by Melia Yogyakarta,"Depok, Yogyakarta",4.0,8.6,4719.0,Mengesankan
+Yogyakarta,168,Melia Purosani Yogyakarta,Melia Purosani Yogyakarta,"Jalan Malioboro, Yogyakarta",5.0,8.7,3505.0,Mengesankan
+Yogyakarta,1000000509788,The Alana Hotel & Conference Center Malioboro Yogyakarta by ASTON,The Alana Hotel & Conference Center Malioboro Yogyakarta by ASTON,"Mantrijeron, Yogyakarta",4.0,8.8,6562.0,Mengesankan
+Yogyakarta,3000020001130,Sheraton Mustika Yogyakarta Resort & Spa,Sheraton Mustika Yogyakarta Resort & Spa,"Depok, Yogyakarta",5.0,8.5,2337.0,Mengesankan
+Yogyakarta,3000020003297,Yogyakarta Marriott Hotel,Yogyakarta Marriott Hotel,"Depok, Yogyakarta",5.0,9.0,3200.0,Mengesankan
+Yogyakarta,3000020001130,Sheraton Mustika Yogyakarta Resort & Spa,Sheraton Mustika Yogyakarta Resort & Spa,"Depok, Yogyakarta",5.0,8.5,2337.0,Mengesankan
+Yogyakarta,289515,Royal Ambarrukmo Yogyakarta,Royal Ambarrukmo Yogyakarta,"Depok, Yogyakarta",5.0,9.0,4186.0,Mengesankan
+Yogyakarta,9000000974039,ARTOTEL Suites Bianti Yogyakarta,ARTOTEL Suites Bianti Yogyakarta,"Gondokusuman, Yogyakarta",5.0,8.8,250.0,Mengesankan
+Yogyakarta,3000010007104,The Alana Yogyakarta Hotel & Convention Center,The Alana Yogyakarta Hotel & Convention Center,"Ngaglik, Yogyakarta",4.0,8.8,6564.0,Mengesankan
+Yogyakarta,3000010008396,Yellow Star Ambarukmo Hotel,Yellow Star Ambarukmo Hotel,"Depok, Yogyakarta",3.0,8.4,8527.0,Mengesankan
+Yogyakarta,100215,Hyatt Regency Yogyakarta,Hyatt Regency Yogyakarta,"Ngaglik, Yogyakarta",5.0,8.9,3711.0,Mengesankan
+Yogyakarta,3000010000393,Hotel Dafam Fortuna Seturan,Hotel Dafam Fortuna Seturan,"Seturan, Yogyakarta",4.0,8.5,8044.0,Mengesankan
+Yogyakarta,3000020018650,eL Hotel Royale Yogyakarta Malioboro,eL Hotel Royale Yogyakarta Malioboro,"Jalan Malioboro, Yogyakarta",4.0,8.7,1881.0,Mengesankan
+Yogyakarta,1000000643090,Grand Mercure Yogyakarta Adi Sucipto,Grand Mercure Yogyakarta Adi Sucipto,"Depok, Yogyakarta",5.0,8.6,2186.0,Mengesankan
+Yogyakarta,9000001106272,Malyabhara Hotel,Malyabhara Hotel,"Jalan Malioboro, Yogyakarta",3.0,8.0,11.0,Nyaman
+Yogyakarta,3000010000813,The Rich Jogja Hotel,The Rich Jogja Hotel,"Mlati, Yogyakarta",4.0,8.5,9233.0,Mengesankan
+Yogyakarta,3000010014429,Lafayette Boutique Hotel,Lafayette Boutique Hotel,"Depok, Yogyakarta",5.0,8.8,4897.0,Mengesankan
+Yogyakarta,149155,Grand Diamond Hotel Yogyakarta,Grand Diamond Hotel Yogyakarta,"Depok, Yogyakarta",4.0,8.5,3220.0,Mengesankan
+Yogyakarta,3000010000269,Indoluxe Hotel Jogjakarta,Indoluxe Hotel Jogjakarta,"Ngaglik, Yogyakarta",4.0,8.7,6240.0,Mengesankan
+Yogyakarta,3000010007197,Harper Malioboro Yogyakarta by ASTON,Harper Malioboro Yogyakarta by ASTON,"Jetis, Yogyakarta",4.0,8.8,4811.0,Mengesankan
+Yogyakarta,344819,favehotel Kusumanegara,favehotel Kusumanegara,"Umbulharjo, Yogyakarta",3.0,8.2,5528.0,Nyaman
+Yogyakarta,9000001039921,Next Hotel Yogyakarta,Next Hotel Yogyakarta,"Depok, Yogyakarta",4.0,7.9,85.0,Nyaman
+Yogyakarta,9000000687487,PORTA by The Ambarrukmo,PORTA by The Ambarrukmo,"Depok, Yogyakarta",3.0,8.9,1026.0,Mengesankan
+Yogyakarta,9000000974039,ARTOTEL Suites Bianti Yogyakarta,ARTOTEL Suites Bianti Yogyakarta,"Gondokusuman, Yogyakarta",5.0,8.8,250.0,Mengesankan
+Yogyakarta,9000000973889,"KIMAYA Sudirman Yogyakarta, By HARRIS","KIMAYA Sudirman Yogyakarta, By HARRIS","Gondokusuman, Yogyakarta",4.0,8.6,379.0,Mengesankan
+Yogyakarta,84796,Sahid Raya Hotel & Convention Yogyakarta,Sahid Raya Hotel & Convention Yogyakarta,"Depok, Yogyakarta",4.0,7.9,4536.0,Nyaman
+Yogyakarta,3000010008396,Yellow Star Ambarukmo Hotel,Yellow Star Ambarukmo Hotel,"Depok, Yogyakarta",3.0,8.4,8527.0,Mengesankan
+Yogyakarta,221496,Prime Plaza Hotel Jogjakarta,Prime Plaza Hotel Jogjakarta,"Gejayan, Yogyakarta",4.0,8.8,3042.0,Mengesankan
+Yogyakarta,3000010008560,Yellow Star Gejayan Hotel,Yellow Star Gejayan Hotel,"Gejayan, Yogyakarta",3.0,8.5,9356.0,Mengesankan
+Yogyakarta,48681,The Jayakarta Yogyakarta Hotel & Spa,The Jayakarta Yogyakarta Hotel & Spa,"Depok, Yogyakarta",4.0,8.3,4811.0,Mengesankan
+Yogyakarta,3000010000158,Greenhost Boutique Hotel,Greenhost Boutique Hotel,"Jalan Prawirotaman, Yogyakarta",3.0,8.7,7193.0,Mengesankan
+Yogyakarta,3000010008792,Grand Kangen Hotel Urip Sumoharjo Yogyakarta,Grand Kangen Hotel Urip Sumoharjo Yogyakarta,"Gondokusuman, Yogyakarta",3.0,8.5,9159.0,Mengesankan
+Yogyakarta,9000000928297,Patra Malioboro Hotel,Patra Malioboro Hotel,"Jalan Malioboro, Yogyakarta",3.0,8.9,665.0,Mengesankan
+Yogyakarta,9000000928841,Grand Rohan Jogja,Grand Rohan Jogja,"Banguntapan, Yogyakarta",4.0,8.7,340.0,Mengesankan
+Yogyakarta,3000010028636,KJ Hotel Yogyakarta,KJ Hotel Yogyakarta,"Jalan Prawirotaman, Yogyakarta",4.0,8.7,3385.0,Mengesankan
+Yogyakarta,9000000924653,The Manohara Hotel Yogyakarta,The Manohara Hotel Yogyakarta,"Gejayan, Yogyakarta",4.0,8.7,294.0,Mengesankan
+Yogyakarta,9000001071258,Bohemian Jogja Villas With Private Pool,Bohemian Jogja Villas With Private Pool,"Mlati, Yogyakarta",0.0,8.7,9.0,Mengesankan
+Yogyakarta,1000000643112,ibis Yogyakarta Adi Sucipto,ibis Yogyakarta Adi Sucipto,"Depok, Yogyakarta",3.0,8.7,2175.0,Mengesankan
+Yogyakarta,3000010002676,h Boutique Hotel Jogjakarta,h Boutique Hotel Jogjakarta,"Gondokusuman, Yogyakarta",3.0,8.5,5977.0,Mengesankan
+Yogyakarta,186635,Abadi Hotel Malioboro Yogyakarta by Tritama Hospitality,Abadi Hotel Malioboro Yogyakarta by Tritama Hospitality,"Jalan Malioboro, Yogyakarta",4.0,8.5,4221.0,Mengesankan
+Yogyakarta,9000000502431,Aveon Hotel Yogyakarta by Daphna International,Aveon Hotel Yogyakarta by Daphna International,"Depok, Yogyakarta",4.0,8.3,1410.0,Mengesankan
+Yogyakarta,9000000927644,All Nite & Day Hotel Yogyakarta - Gejayan,All Nite & Day Hotel Yogyakarta - Gejayan,"Gondokusuman, Yogyakarta",3.0,8.4,1088.0,Mengesankan
+Yogyakarta,3000010040445,Grand Keisha Yogyakarta,Grand Keisha Yogyakarta,"Gejayan, Yogyakarta",4.0,8.9,4722.0,Mengesankan
+Yogyakarta,3000010008255,D'Salvatore Art & Boutique Hotel,D'Salvatore Art & Boutique Hotel,"Depok, Yogyakarta",3.0,8.4,4894.0,Mengesankan
+Yogyakarta,3000010038038,Grand Sarila Hotel Yogyakarta,Grand Sarila Hotel Yogyakarta,"Gejayan, Yogyakarta",3.0,8.2,9803.0,Nyaman
+Yogyakarta,3000010003256,Horison Lynn Yogyakarta,Horison Lynn Yogyakarta,"Mantrijeron, Yogyakarta",3.0,8.5,6017.0,Mengesankan
+Yogyakarta,3000010001880,Sagan Heritage Hotel,Sagan Heritage Hotel,"Gondokusuman, Yogyakarta",3.0,8.3,4228.0,Mengesankan
+Yogyakarta,3000010000711,Horison Ultima Riss Malioboro Yogyakarta,Horison Ultima Riss Malioboro Yogyakarta,"Gedongtengen, Yogyakarta",4.0,8.5,3408.0,Mengesankan
+Yogyakarta,3000020015114,@HOM Premiere Timoho,@HOM Premiere Timoho,"Umbulharjo, Yogyakarta",4.0,8.6,2086.0,Mengesankan
+Yogyakarta,9000000511638,Student Castle Apartment HD,Student Castle Apartment HD,"Depok, Yogyakarta",0.0,7.8,165.0,Nyaman
+Yogyakarta,3000010008918,favehotel Malioboro - Yogyakarta,favehotel Malioboro - Yogyakarta,"Kotabaru, Yogyakarta",3.0,8.7,4207.0,Mengesankan
+Solo,3000010007128,The Alana Hotel and Convention Center - Solo by ASTON,The Alana Hotel and Convention Center - Solo by ASTON,"Colomadu, Solo",4.0,8.6,6672.0,Mengesankan
+Solo,9000000801739,Swiss-Belhotel Solo,Swiss-Belhotel Solo,"Gilingan, Solo",4.0,8.7,1152.0,Mengesankan
+Solo,3000010000353,Syariah Hotel Solo,Syariah Hotel Solo,"Kartasura, Solo",4.0,8.4,7588.0,Mengesankan
+Solo,3000020005662,POP! Hotel Solo,POP! Hotel Solo,"Purwosari, Solo",2.0,8.5,7163.0,Mengesankan
+Solo,294951,favehotel Manahan - Solo,favehotel Manahan - Solo,"Kerten, Solo",3.0,8.2,11591.0,Nyaman
+Solo,334898,favehotel Solo Baru,favehotel Solo Baru,"Solo Baru, Solo",3.0,8.3,10705.0,Mengesankan
+Solo,9000001071107,MAHALAYA The Legacy Hotel,MAHALAYA The Legacy Hotel,"Setabelan, Solo",4.0,9.2,37.0,Luar Biasa
+Solo,3000010001092,Twin Star Hotel Solo,Twin Star Hotel Solo,"Kestalan, Solo",2.0,8.3,1795.0,Mengesankan
+Solo,3000010000434,Grand Orchid Hotel Solo,Grand Orchid Hotel Solo,"Timuran, Solo",3.0,8.0,6490.0,Nyaman
+Solo,9000000968265,LOA Living Solo Baru,LOA Living Solo Baru,"Solo Baru, Solo",3.0,8.7,361.0,Mengesankan
+Solo,3000010000434,Grand Orchid Hotel Solo,Grand Orchid Hotel Solo,"Timuran, Solo",3.0,8.0,6490.0,Nyaman
+Solo,3000010007590,The Amrani Syariah Hotel,The Amrani Syariah Hotel,"Kerten, Solo",3.0,8.6,1493.0,Mengesankan
+Solo,3000010005134,Grand Amira Hotel Solo by Azana,Grand Amira Hotel Solo by Azana,"Pasar Kliwon, Solo",3.0,8.4,3253.0,Mengesankan
+Solo,3000010040572,Hotel Tosan Solo Baru,Hotel Tosan Solo Baru,"Solo Baru, Solo",3.0,8.3,2733.0,Mengesankan
+Solo,9000001107480,Fivecord Hotel Solo,Fivecord Hotel Solo,"Jebres, Solo",0.0,8.8,9.0,Mengesankan
+Solo,1000000529269,Diamond Hotel,Diamond Hotel,"Purwosari, Solo",2.0,8.4,963.0,Mengesankan
+Solo,3000010001092,Twin Star Hotel Solo,Twin Star Hotel Solo,"Kestalan, Solo",2.0,8.3,1795.0,Mengesankan
+Solo,3000010000694,The Margangsa Hotel,The Margangsa Hotel,"Sriwedari, Solo",2.0,8.3,1236.0,Mengesankan
+Solo,1000000490513,Indah Palace Solo,Indah Palace Solo,"Tipes, Solo",3.0,8.2,1335.0,Nyaman
+Solo,3000010008292,Assalaam Syariah Hotel Solo,Assalaam Syariah Hotel Solo,"Kartasura, Solo",3.0,8.2,973.0,Nyaman
+Solo,1000000529269,Diamond Hotel,Diamond Hotel,"Purwosari, Solo",2.0,8.4,963.0,Mengesankan
+Solo,2000000224310,Al Azhar Azhima Hotel Resort & Convention,Al Azhar Azhima Hotel Resort & Convention,"Ngemplak, Solo",3.0,7.8,1086.0,Nyaman
+Solo,9000000134084,Front One Cabin Slamet Riyadi,Front One Cabin Slamet Riyadi,"Kemlayan, Solo",1.0,8.4,1321.0,Mengesankan
+Solo,3000010002441,Hotel Bintang Solo,Hotel Bintang Solo,"Pucang Sawit, Solo",2.0,7.6,2136.0,Nyaman
+Solo,65547,Hotel Sahid Jaya Solo,Hotel Sahid Jaya Solo,"Ketelan, Solo",5.0,8.2,4191.0,Nyaman
+Solo,3000010002852,Griya Surya Solo Guesthouse,Griya Surya Solo Guesthouse,"Solo Baru, Solo",1.0,8.3,1761.0,Mengesankan
+Solo,3000010002845,Hotel Grand Setia Kawan,Hotel Grand Setia Kawan,"Manahan, Solo",3.0,7.1,762.0,Nyaman
+Solo,3000010002843,Malioboro Inn Solo,Malioboro Inn Solo,"Laweyan, Solo",2.0,8.2,747.0,Nyaman
+Solo,3000010002875,Mandala Wisata Hotel,Mandala Wisata Hotel,"Sondakan, Solo",2.0,8.3,282.0,Mengesankan
+Solo,65533,Kusuma Sahid Prince Hotel,Kusuma Sahid Prince Hotel,"Kampung Baru, Solo",4.0,7.8,1904.0,Nyaman
+Solo,3000010002848,Griya Tenera Syariah,Griya Tenera Syariah,"Tegalharjo, Solo",1.0,8.1,938.0,Nyaman
+Solo,9000000974332,Luxury Inn Guest House,Luxury Inn Guest House,"Jajar, Solo",0.0,8.6,31.0,Mengesankan
+Surabaya,2000000140952,Tunjungan Hotel Surabaya,Tunjungan Hotel Surabaya,"Tegalsari, Surabaya",4.0,8.0,10496.0,Nyaman
+Surabaya,1000000606757,Four Points by Sheraton Surabaya,Four Points by Sheraton Surabaya,"Tegalsari, Surabaya",4.0,9.2,144.0,Luar Biasa
+Surabaya,433381,Grand Darmo Suite by AMITHYA,Grand Darmo Suite by AMITHYA,"Wonokromo, Surabaya",4.0,8.3,8847.0,Mengesankan
+Surabaya,486909,The Alana Surabaya,The Alana Surabaya,"Wonokromo, Surabaya",4.0,8.7,6779.0,Mengesankan
+Surabaya,3000010006172,Best Western Papilio Hotel,Best Western Papilio Hotel,"Wonokromo, Surabaya",4.0,8.6,13020.0,Mengesankan
+Surabaya,486909,The Alana Surabaya,The Alana Surabaya,"Wonokromo, Surabaya",4.0,8.7,6779.0,Mengesankan
+Surabaya,3000010028502,Vasa Hotel Surabaya,Vasa Hotel Surabaya,"Sukomanunggal, Surabaya",5.0,8.7,3851.0,Mengesankan
+Surabaya,195613,Sheraton Surabaya Hotel and Towers,Sheraton Surabaya Hotel and Towers,"Tegalsari, Surabaya",5.0,8.8,3610.0,Mengesankan
+Surabaya,3000010025260,MIRA inn Kayoon Surabaya City Center,MIRA inn Kayoon Surabaya City Center,"Genteng, Surabaya",1.0,7.6,1115.0,Nyaman
+Surabaya,62311,Shangri-La Surabaya,Shangri-La Surabaya,"Sawahan, Surabaya",5.0,8.7,1908.0,Mengesankan
+Surabaya,3000010002158,HARRIS Hotel & Conventions Gubeng,HARRIS Hotel & Conventions Gubeng,"Gubeng, Surabaya",4.0,8.7,5889.0,Mengesankan
+Surabaya,48659,Garden Palace Hotel Powered by Archipelago,Garden Palace Hotel Powered by Archipelago,"Genteng, Surabaya",4.0,8.3,9195.0,Mengesankan
+Surabaya,62310,JW Marriott Hotel Surabaya,JW Marriott Hotel Surabaya,"Tegalsari, Surabaya",5.0,9.0,6550.0,Mengesankan
+Surabaya,1000000474578,Hotel Ciputra World Surabaya managed by Swiss-Belhotel International,Hotel Ciputra World Surabaya managed by Swiss-Belhotel International,"Sawahan, Surabaya",5.0,8.7,4239.0,Mengesankan
+Surabaya,3000020015465,Grand Dafam Signature Surabaya,Grand Dafam Signature Surabaya,"Genteng, Surabaya",4.0,8.8,2043.0,Mengesankan
+Surabaya,9000000133761,The Life Styles Hotel Surabaya,The Life Styles Hotel Surabaya,"Gubeng, Surabaya",3.5,8.9,12522.0,Mengesankan
+Surabaya,3000020001103,Primebiz Hotel Surabaya,Primebiz Hotel Surabaya,"Wonokromo, Surabaya",3.5,8.5,4796.0,Mengesankan
+Surabaya,1000000481154,Holiday Inn Express SURABAYA CENTERPOINT,Holiday Inn Express SURABAYA CENTERPOINT,"Sawahan, Surabaya",4.0,8.6,3912.0,Mengesankan
+Surabaya,401129,Bekizaar Hotel Surabaya,Bekizaar Hotel Surabaya,"Genteng, Surabaya",3.0,8.4,6978.0,Mengesankan
+Surabaya,3000010043134,Swiss-Belinn Airport Surabaya,Swiss-Belinn Airport Surabaya,"Gedangan, Surabaya",3.0,8.7,3334.0,Mengesankan
+Surabaya,3000010043726,Alimar Premier Hotel,Alimar Premier Hotel,"Mulyorejo, Surabaya",3.0,8.2,1832.0,Nyaman
+Surabaya,9000000927244,Royal Tulip Darmo Surabaya,Royal Tulip Darmo Surabaya,"Tegalsari, Surabaya",5.0,8.7,258.0,Mengesankan
+Surabaya,546016,Swiss-Belinn Manyar Surabaya,Swiss-Belinn Manyar Surabaya,"Mulyorejo, Surabaya",3.0,8.6,5808.0,Mengesankan
+Surabaya,9000000413948,HARRIS Hotel & Conventions Bundaran Satelit Surabaya,HARRIS Hotel & Conventions Bundaran Satelit Surabaya,"Sukomanunggal, Surabaya",4.0,8.8,1554.0,Mengesankan
+Surabaya,48694,Surabaya Suites Hotel Powered by Archipelago,Surabaya Suites Hotel Powered by Archipelago,"Genteng, Surabaya",4.0,8.5,8509.0,Mengesankan
+Surabaya,3000010012174,Hotel Aria Centra Surabaya,Hotel Aria Centra Surabaya,"Genteng, Surabaya",4.0,8.8,7348.0,Mengesankan
+Surabaya,3000010013021,Hotel Gunawangsa MERR,Hotel Gunawangsa MERR,"Rungkut, Surabaya",3.0,8.4,13560.0,Mengesankan
+Surabaya,3000020018642,Neo+ Waru Sidoarjo by ASTON,Neo+ Waru Sidoarjo by ASTON,"Waru, Surabaya",3.0,8.4,3490.0,Mengesankan
+Surabaya,3000010007786,POP! Hotel Stasiun Kota Surabaya,POP! Hotel Stasiun Kota Surabaya,"Pabean Cantikan, Surabaya",2.0,8.5,8040.0,Mengesankan
+Surabaya,460390,Hotel 88 Embong Malang,Hotel 88 Embong Malang,"Tegalsari, Surabaya",3.0,8.4,6898.0,Mengesankan
+Surabaya,3000010008573,POP! Hotel Diponegoro Surabaya,POP! Hotel Diponegoro Surabaya,"Wonokromo, Surabaya",2.0,8.3,12272.0,Mengesankan
+Surabaya,3000010004706,Zest Hotel Jemursari,Zest Hotel Jemursari,"Tenggilis Mejoyo, Surabaya",2.0,8.4,10975.0,Mengesankan
+Surabaya,2000000218475,Grand Inna Tunjungan,Grand Inna Tunjungan,"Genteng, Surabaya",4.0,8.5,3262.0,Mengesankan
+Surabaya,9000000967033,Goldvitel Hotel Surabaya,Goldvitel Hotel Surabaya,"Genteng, Surabaya",4.0,8.2,294.0,Nyaman
+Surabaya,2000000218205,ibis budget Surabaya Airport,ibis Budget Surabaya Airport,"Sedati, Surabaya",2.0,8.4,6972.0,Mengesankan
+Surabaya,392705,Hotel 88 Embong Kenongo (Kayoon),Hotel 88 Embong Kenongo (Kayoon),"Genteng, Surabaya",2.0,8.5,8615.0,Mengesankan
+Surabaya,2000000222734,Amaris Hotel Embong Malang,Amaris Hotel Embong Malang,"Tegalsari, Surabaya",2.0,8.4,5494.0,Mengesankan
+Surabaya,3000010027841,Amaris Hotel Margorejo Surabaya,Amaris Hotel Margorejo Surabaya,"Wonocolo, Surabaya",2.0,8.6,6062.0,Mengesankan
+Surabaya,3000010038037,Hotel Dafam Pacific Caesar Surabaya,Hotel Dafam Pacific Caesar Surabaya,"Mulyorejo, Surabaya",3.0,8.8,5629.0,Mengesankan
+Surabaya,3000010008084,The Life Hotels Surabaya City Center,The Life Hotels Surabaya City Center,"Genteng, Surabaya",2.5,8.3,11511.0,Mengesankan
+Surabaya,251822,Prime Royal Boutique Hotel Surabaya,Prime Royal Boutique Hotel Surabaya,"Sawahan, Surabaya",3.5,8.1,5167.0,Nyaman
+Surabaya,3000010039046,Amaris Hotel Darmo - Surabaya,Amaris Hotel Darmo - Surabaya,"Tegalsari, Surabaya",2.0,8.6,3257.0,Mengesankan
+Surabaya,3000010041731,ZOOM Dharmahusada Hotel,ZOOM Dharmahusada Hotel,"Gubeng, Surabaya",3.0,8.5,2709.0,Mengesankan
+Surabaya,4166,Novotel Surabaya - Hotel & Suites,Novotel Surabaya Hotel &amp; Suites,"Wonokromo, Surabaya",4.0,8.4,4239.0,Mengesankan
+Surabaya,3000010008884,Premier Place Surabaya Airport,Premier Place Surabaya Airport,"Gedangan, Surabaya",3.0,8.7,4285.0,Mengesankan
+Surabaya,3000010023650,MaxOneHotels.com @ Dharmahusada - Surabaya,MaxOneHotels.com @ Dharmahusada - Surabaya,"Gubeng, Surabaya",3.0,8.6,5484.0,Mengesankan
+Surabaya,3000010029714,Hotel 88 Kedungsari (Kedungdoro),Hotel 88 Kedungsari (Kedungdoro),"Tegalsari, Surabaya",2.0,8.6,5165.0,Mengesankan
+Surabaya,8214,Hotel Majapahit Surabaya - MGallery,Hotel Majapahit Surabaya - MGallery,"Genteng, Surabaya",5.0,8.8,556.0,Mengesankan
+Surabaya,9000000952915,D'Carol Hotel Surabaya,D'Carol Hotel Surabaya,"Genteng, Surabaya",3.0,8.6,553.0,Mengesankan
+Surabaya,3000010025387,La Lisa Hotel Surabaya,La Lisa Hotel Surabaya,"Gubeng, Surabaya",3.5,8.6,3222.0,Mengesankan
+Surabaya,3000010005135,Yello Hotel Jemursari,Yello Hotel Jemursari,"Tenggilis Mejoyo, Surabaya",3.0,8.5,4540.0,Mengesankan
+Surabaya,3000010033212,Sumi Hotel Surabaya,Sumi Hotel Surabaya,"Dukuh Pakis, Surabaya",2.0,8.4,6112.0,Mengesankan
+Surabaya,9000001106502,Life Hotel Sudirman Surabaya,Life Hotel Sudirman Surabaya,"Genteng, Surabaya",3.0,8.2,29.0,Nyaman
